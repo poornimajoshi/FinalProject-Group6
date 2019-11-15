@@ -37,12 +37,12 @@ for i in fake.keys():
     files = sorted(fake[i])
     split = int(len(files)*0.2)
     test_fake.extend([paths[i][j] for j in files[:split]])
-    train_fake.extend([paths[i][j] for j in files[:split]])
+    train_fake.extend([paths[i][j] for j in files[split:]])
 
 files = sorted(real)
 split = int(len(files)*0.2)
 test_real.extend([paths["real"][j] for j in files[:split]])
-train_real.extend([paths["real"][j] for j in files[:split]])
+train_real.extend([paths["real"][j] for j in files[split:]])
 
 copy_data("test/real/",test_real)
 copy_data("test/fake/",test_fake)
