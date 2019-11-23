@@ -1,0 +1,3 @@
+To load the baseline model, just use the best_baseline.pth file. 
+If you want to view the code I used to create the baseline model, use the baseline_model.py file, but you'll need to replace the path for the weights from the one in the script with the global.pth file
+and will need to save the model under a different name
