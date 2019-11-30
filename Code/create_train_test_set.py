@@ -8,15 +8,23 @@ errors = []
 detector = MTCNN()
 def get_face(img_path, save_path):
     im = cv2.imread(img_path)
+    save_path = save_path.replace("jpg", "png")
     detected = detector.detect_faces(im)
     try:
         x, y, w, h = detected[0]["box"]
         im2 = im[x:x + w + 15, y:y + h]  # +15 on width to include the chin
-        save_path = save_path.replace("jpg", "png")
         cv2.imwrite(save_path, im2)
     except:
-        cv2.imwrite(save_path, im)
-        errors.append([detected, img_path])
+        # !wget https://raw.githubusercontent.com/opencv/opencv/master/data/haarcascades/haarcascade_frontalface_default.xml
+
+        face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
+        gray = cv2.cvtColor(im, cv2.COLOR_BGR2GRAY)
+        faces = face_cascade.detectMultiScale(gray, 1.3, 5)
+        for (x, y, w, h) in faces:
+            face_clip = im[y:y + h, x:x + w]  # cropping the face in image
+            cv2.imwrite(save_path, cv2.resize(face_clip, (414, 511)))
+        # cv2.imwrite(save_path, im)
+        # errors.append([detected, img_path])
     # return im2
 
 def copy_data(directory, files):
@@ -78,7 +86,7 @@ copy_data_path = "/home/ubuntu/data/project_data/format/"
 # copy_data("/home/ubuntu/data/project_data/format/train/real/", train_real)
 # copy_data("/home/ubuntu/data/project_data/format/train/fake/", train_fake)
 
-cropped_data_path = "/home/ubuntu/data/project_data/cropped/"
+cropped_data_path = "/home/ubuntu/data/project_data/cropped2/"
 for i in data_path.keys():
     for j in tqdm(data_path[i]):
         flname = j.split("/")[-1]
