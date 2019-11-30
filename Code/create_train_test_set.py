@@ -4,25 +4,27 @@ from shutil import copyfile
 from mtcnn import MTCNN
 import gc, cv2
 from tqdm import tqdm
-errors = []
+
 detector = MTCNN()
 def get_face(img_path, save_path):
-    im = cv2.imread(img_path)
+    im = cv2.imread(img_path)   #/home/ubuntu/data/project_data/real_and_fake_face_detection/real_and_fake_face/training_real/real_00576.jpg
     save_path = save_path.replace("jpg", "png")
     detected = detector.detect_faces(im)
-    try:
+    if len(detected)>0:
         x, y, w, h = detected[0]["box"]
-        im2 = im[x:x + w + 15, y:y + h]  # +15 on width to include the chin
+
+        im2 = im[abs(x):abs(x) + abs(w) + 15, abs(y):abs(y) + abs(h)]  # +15 on width to include the chin
         cv2.imwrite(save_path, im2)
-    except:
+    else:
+        print(img_path)
         # !wget https://raw.githubusercontent.com/opencv/opencv/master/data/haarcascades/haarcascade_frontalface_default.xml
 
-        face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
-        gray = cv2.cvtColor(im, cv2.COLOR_BGR2GRAY)
-        faces = face_cascade.detectMultiScale(gray, 1.3, 5)
-        for (x, y, w, h) in faces:
-            face_clip = im[y:y + h, x:x + w]  # cropping the face in image
-            cv2.imwrite(save_path, cv2.resize(face_clip, (414, 511)))
+        # face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
+        # gray = cv2.cvtColor(im, cv2.COLOR_BGR2GRAY)
+        # faces = face_cascade.detectMultiScale(gray, 1.3, 5)
+        # for (x, y, w, h) in faces:
+        #     face_clip = im[y:y + h, x:x + w]  # cropping the face in image
+        #     cv2.imwrite(save_path, cv2.resize(face_clip, (414, 511)))
         # cv2.imwrite(save_path, im)
         # errors.append([detected, img_path])
     # return im2
@@ -54,7 +56,7 @@ for dirname, _, filenames in os.walk(source_dir):
             num = int(filename.split("_")[1] + filename.split("_")[2].split(".")[0])
             fake[difficulty].append(num)
             paths[difficulty][num] = os.path.join(dirname, filename)
-
+# img_path = "/home/ubuntu/data/project_data/cropped2/train/real/real_00576.jpg"
 train_fake = []
 test_fake = []
 train_real = []
@@ -96,4 +98,4 @@ for i in data_path.keys():
         collected = gc.collect()
 print(j)
 print("DONE")
-print("ERRORS:",errors)
+# print("ERRORS:",errors)
