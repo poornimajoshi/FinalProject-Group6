@@ -12,8 +12,6 @@ def get_face(img_path, save_path):
     try:
         x, y, w, h = detected[0]["box"]
         im2 = im[x:x + w + 15, y:y + h]  # +15 on width to include the chin
-        if not os.path.exists(save_path):
-            os.makedirs(save_path)
         save_path = save_path.replace("jpg", "png")
         cv2.imwrite(save_path, im2)
     except:
@@ -72,8 +70,8 @@ data_path = {"test/real/":test_real,
              "train/fake/":train_fake}
 copy_data_path = "/home/ubuntu/data/project_data/format/"
 
-for i in data_path.keys():
-    copy_data(copy_data_path+i, data_path[i])
+# for i in data_path.keys():
+#     copy_data(copy_data_path+i, data_path[i])
 
 # copy_data("/home/ubuntu/data/project_data/format/test/real/", test_real)
 # copy_data("/home/ubuntu/data/project_data/format/test/fake/", test_fake)
@@ -84,6 +82,10 @@ cropped_data_path = "/home/ubuntu/data/project_data/cropped/"
 for i in data_path.keys():
     for j in tqdm(data_path[i]):
         flname = j.split("/")[-1]
+        if not os.path.exists(cropped_data_path+i):
+            os.makedirs(cropped_data_path+i)
         get_face(j, cropped_data_path+i+flname)
         collected = gc.collect()
+print(j)
+print("DONE")
 print("ERRORS:",errors)
