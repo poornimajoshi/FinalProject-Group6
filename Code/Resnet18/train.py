@@ -172,14 +172,22 @@ from PIL import Image
 from pathlib import Path
 pred = []
 pred_logs = []
+acc=[]
+categorical = {"real":1,"fake":0}
 for file in onlyfiles:
     image = Image.open(Path(file))
     input = test_transforms(image)
     input = input.view(1, 3, 256,256)
     output = model(input)
     pred_logs.append(torch.nn.functional.softmax(output.data, dim=1).numpy())
-    prediction = int(torch.max(output.data, 1)[1].numpy())
-    pred.append(prediction)
+    prediction = np.argmax(torch.nn.functional.softmax(output.data, dim=1).numpy(), axis=-1)
+    #prediction = int(torch.max(output.data, 1)[1].numpy())
+    pred.append(prediction[0])
+    if  prediction[0]== categorical[file.split("/")[-2]]:
+        acc.append(1)
+    else:
+        acc.append(0)
+print("Final test set accuracy:", sum(acc) / len(acc))
     #print("Output: ", output[0][0], prediction)
 print("Probs: ", pred_logs)
 print("Predictions:", pred)
@@ -192,5 +200,6 @@ with open('resnet18_poornimajoshi_L.pickle', 'wb') as handle:
 with open('resnet18_poornimajoshi_p.pickle', 'wb') as handle:
     pickle.dump(pred, handle, protocol=pickle.HIGHEST_PROTOCOL)
 
-
-
+#categorical[file.split("/")[-2]
+with open('true_labels.pickle', 'wb') as handle:
+    pickle.dump((categorical[file.split("/")[-2]]), handle, protocol=pickle.HIGHEST_PROTOCOL)
