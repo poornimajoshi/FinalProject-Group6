@@ -8,13 +8,13 @@ import math
 import numpy as np
 
 # dimensions of our images
-#img_width, img_height = 224, 224
 img_width, img_height = 224, 224
 
 weights_path = 'mobilenet_model.h5'
 train_data_dir = '/home/ubuntu/Deep-Learning/FinalProject/data/cropped2/train/'
 validation_data_dir = '/home/ubuntu/Deep-Learning/FinalProject/data/cropped2/test/'
 test_data_dir = '/home/ubuntu/Deep-Learning/FinalProject/data/cropped2/validation/'
+final = '/home/ubuntu/data/project_data/cropped2/train/'
 
 # number of epochs to train top model
 epochs = 50
@@ -22,6 +22,21 @@ epochs = 50
 batch_size = 8
 model = applications.mobilenet.MobileNet(include_top=False, weights='imagenet')
 datagen = ImageDataGenerator(rescale=1. / 255)
+
+generator1 = datagen.flow_from_directory(
+    final,
+    target_size=(img_width, img_height),
+    batch_size=batch_size,
+    class_mode=None,
+    shuffle=False)
+nb_en_samples1 = len(generator1.filenames)
+num_classes1 = len(generator1.class_indices)
+
+predict_size_train1 = int(math.ceil(nb_en_samples1 / batch_size))
+
+bottleneck_features_train1 = model.predict_generator(generator1, predict_size_train1)
+
+np.save('bottleneck_features_train_ensemble.npy', bottleneck_features_train1)
 
 generator = datagen.flow_from_directory(
     train_data_dir,
@@ -39,6 +54,7 @@ bottleneck_features_train = model.predict_generator(
     generator, predict_size_train)
 
 np.save('bottleneck_features_train_mob.npy', bottleneck_features_train)
+
 generator = datagen.flow_from_directory(
     validation_data_dir,
     target_size=(img_width, img_height),
@@ -117,11 +133,36 @@ print("Probs: ",prediction_logs[0])
 print("Pred: ",prediction_output[0])
 print("Length: ",len(prediction_output))
 
+
 import pickle
 with open('mobilenet_poornimajoshi_L.pickle', 'wb') as handle:
     pickle.dump(prediction_logs, handle, protocol=pickle.HIGHEST_PROTOCOL)
 
 with open('mobilenet_poornimajoshi_p.pickle', 'wb') as handle:
     pickle.dump(prediction_output, handle, protocol=pickle.HIGHEST_PROTOCOL)
+
+print("---Done---")
+
+
+'''
+Generate csv for ensembling
+'''
+
+# load the bottleneck features saved earlier
+ensemble_data = np.load('bottleneck_features_train_ensemble.npy')
+validation_labels1 = generator1.classes
+validation_labels2 = to_categorical(validation_labels1, num_classes=num_classes1)
+(eval_loss, eval_accuracy) = model.evaluate(ensemble_data, validation_labels2, batch_size=batch_size, verbose=1)
+prediction_logs = model.predict(ensemble_data)
+prediction_output = np.argmax(prediction_logs, axis=-1)
+
+import pandas as pd
+df = pd.DataFrame()
+df["TrueLabels"] = generator1.classes
+df["Prediction"] = prediction_output
+df['Logits'] = list(prediction_logs)
+df['FileName'] = generator1.filenames
+df.sort_values(by=['FileName'])
+df.to_csv("mobilenetv2_train_poornimajoshi.csv", index = False)
 
 print("---Done---")
