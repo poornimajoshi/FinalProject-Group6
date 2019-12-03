@@ -15,4 +15,5 @@ Some Sample images are seen here:
 ![Image of SampleImages](https://github.com/poornimajoshi/FinalProject-GroupX/blob/master/Code/image_sample.png)
 
 Levels in the images
+
 ![Levels in SampleImages](https://github.com/poornimajoshi/FinalProject-GroupX/blob/master/Code/image_levels.png)
