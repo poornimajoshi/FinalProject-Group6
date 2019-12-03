@@ -1,0 +1,1510 @@
+TrueLabels,Prediction,Logits,FileName
+0,0,[0.57478803 0.425212  ],/home/ubuntu/data/project_data/cropped2/train/fake/easy_100_1111.png
+0,0,[0.5945218  0.40547815],/home/ubuntu/data/project_data/cropped2/train/fake/easy_101_0010.png
+0,0,[0.57542807 0.42457196],/home/ubuntu/data/project_data/cropped2/train/fake/easy_102_0101.png
+0,0,[0.56810373 0.43189624],/home/ubuntu/data/project_data/cropped2/train/fake/easy_103_1111.png
+0,0,[0.5781531  0.42184693],/home/ubuntu/data/project_data/cropped2/train/fake/easy_104_1000.png
+0,0,[0.5658641  0.43413594],/home/ubuntu/data/project_data/cropped2/train/fake/easy_105_1100.png
+0,0,[0.59312326 0.40687674],/home/ubuntu/data/project_data/cropped2/train/fake/easy_106_0011.png
+0,0,[0.57752967 0.42247033],/home/ubuntu/data/project_data/cropped2/train/fake/easy_107_1011.png
+0,0,[0.581487   0.41851297],/home/ubuntu/data/project_data/cropped2/train/fake/easy_108_1111.png
+0,0,[0.5778253  0.42217475],/home/ubuntu/data/project_data/cropped2/train/fake/easy_109_1111.png
+0,0,[0.56612676 0.4338732 ],/home/ubuntu/data/project_data/cropped2/train/fake/easy_110_0001.png
+0,0,[0.57652265 0.42347735],/home/ubuntu/data/project_data/cropped2/train/fake/easy_111_1101.png
+0,0,[0.57404053 0.4259595 ],/home/ubuntu/data/project_data/cropped2/train/fake/easy_112_1001.png
+0,0,[0.56932807 0.43067193],/home/ubuntu/data/project_data/cropped2/train/fake/easy_113_0011.png
+0,0,[0.57642615 0.42357385],/home/ubuntu/data/project_data/cropped2/train/fake/easy_114_1110.png
+0,0,[0.56727904 0.43272096],/home/ubuntu/data/project_data/cropped2/train/fake/easy_115_0010.png
+0,0,[0.56487435 0.43512568],/home/ubuntu/data/project_data/cropped2/train/fake/easy_117_0101.png
+0,0,[0.57296145 0.4270386 ],/home/ubuntu/data/project_data/cropped2/train/fake/easy_118_1111.png
+0,0,[0.5762533  0.42374673],/home/ubuntu/data/project_data/cropped2/train/fake/easy_119_0011.png
+0,0,[0.5887311  0.41126886],/home/ubuntu/data/project_data/cropped2/train/fake/easy_120_0011.png
+0,0,[0.58146906 0.41853088],/home/ubuntu/data/project_data/cropped2/train/fake/easy_121_0011.png
+0,0,[0.57703924 0.4229607 ],/home/ubuntu/data/project_data/cropped2/train/fake/easy_122_1011.png
+0,0,[0.5907912  0.40920877],/home/ubuntu/data/project_data/cropped2/train/fake/easy_123_0100.png
+0,0,[0.58429176 0.4157083 ],/home/ubuntu/data/project_data/cropped2/train/fake/easy_124_1110.png
+0,0,[0.5757991 0.4242009],/home/ubuntu/data/project_data/cropped2/train/fake/easy_125_0011.png
+0,0,[0.58387107 0.41612896],/home/ubuntu/data/project_data/cropped2/train/fake/easy_126_0111.png
+0,0,[0.57849115 0.42150882],/home/ubuntu/data/project_data/cropped2/train/fake/easy_127_0001.png
+0,0,[0.5768788  0.42312124],/home/ubuntu/data/project_data/cropped2/train/fake/easy_128_0111.png
+0,0,[0.5802353 0.4197647],/home/ubuntu/data/project_data/cropped2/train/fake/easy_129_1111.png
+0,0,[0.59054315 0.40945676],/home/ubuntu/data/project_data/cropped2/train/fake/easy_130_1101.png
+0,0,[0.56372756 0.43627244],/home/ubuntu/data/project_data/cropped2/train/fake/easy_131_1001.png
+0,0,[0.57601076 0.42398933],/home/ubuntu/data/project_data/cropped2/train/fake/easy_132_0110.png
+0,0,[0.575569 0.424431],/home/ubuntu/data/project_data/cropped2/train/fake/easy_133_1100.png
+0,0,[0.57750857 0.42249146],/home/ubuntu/data/project_data/cropped2/train/fake/easy_134_0001.png
+0,0,[0.57135504 0.42864496],/home/ubuntu/data/project_data/cropped2/train/fake/easy_135_0011.png
+0,0,[0.58613795 0.41386202],/home/ubuntu/data/project_data/cropped2/train/fake/easy_136_0111.png
+0,0,[0.5608902  0.43910974],/home/ubuntu/data/project_data/cropped2/train/fake/easy_138_0101.png
+0,0,[0.5875516  0.41244838],/home/ubuntu/data/project_data/cropped2/train/fake/easy_140_1111.png
+0,0,[0.5719402 0.4280598],/home/ubuntu/data/project_data/cropped2/train/fake/easy_141_0111.png
+0,0,[0.5839277  0.41607228],/home/ubuntu/data/project_data/cropped2/train/fake/easy_143_0011.png
+0,0,[0.5656097  0.43439034],/home/ubuntu/data/project_data/cropped2/train/fake/easy_144_1111.png
+0,0,[0.5838083  0.41619167],/home/ubuntu/data/project_data/cropped2/train/fake/easy_145_1000.png
+0,0,[0.58373135 0.41626868],/home/ubuntu/data/project_data/cropped2/train/fake/easy_146_1110.png
+0,0,[0.5823842 0.4176158],/home/ubuntu/data/project_data/cropped2/train/fake/easy_147_1110.png
+0,0,[0.5899594  0.41004062],/home/ubuntu/data/project_data/cropped2/train/fake/easy_148_0011.png
+0,0,[0.5628712  0.43712884],/home/ubuntu/data/project_data/cropped2/train/fake/easy_149_1001.png
+0,0,[0.56546265 0.43453738],/home/ubuntu/data/project_data/cropped2/train/fake/easy_150_0011.png
+0,0,[0.573569   0.42643097],/home/ubuntu/data/project_data/cropped2/train/fake/easy_151_1110.png
+0,0,[0.5693053 0.4306947],/home/ubuntu/data/project_data/cropped2/train/fake/easy_152_0011.png
+0,0,[0.5783111  0.42168894],/home/ubuntu/data/project_data/cropped2/train/fake/easy_153_1110.png
+0,0,[0.5774411  0.42255887],/home/ubuntu/data/project_data/cropped2/train/fake/easy_154_1100.png
+0,0,[0.58233035 0.41766965],/home/ubuntu/data/project_data/cropped2/train/fake/easy_155_0011.png
+0,0,[0.59540784 0.40459222],/home/ubuntu/data/project_data/cropped2/train/fake/easy_156_0010.png
+0,0,[0.57310504 0.426895  ],/home/ubuntu/data/project_data/cropped2/train/fake/easy_157_1110.png
+0,0,[0.58514494 0.41485506],/home/ubuntu/data/project_data/cropped2/train/fake/easy_158_0011.png
+0,0,[0.5576992  0.44230077],/home/ubuntu/data/project_data/cropped2/train/fake/easy_161_1101.png
+0,0,[0.58230305 0.4176969 ],/home/ubuntu/data/project_data/cropped2/train/fake/easy_162_0001.png
+0,0,[0.58123827 0.41876173],/home/ubuntu/data/project_data/cropped2/train/fake/easy_163_1001.png
+0,0,[0.588091   0.41190892],/home/ubuntu/data/project_data/cropped2/train/fake/easy_164_1111.png
+0,0,[0.56940943 0.43059057],/home/ubuntu/data/project_data/cropped2/train/fake/easy_165_1010.png
+0,0,[0.5828377  0.41716233],/home/ubuntu/data/project_data/cropped2/train/fake/easy_166_1100.png
+0,0,[0.58231544 0.41768458],/home/ubuntu/data/project_data/cropped2/train/fake/easy_167_0110.png
+0,0,[0.57599807 0.42400196],/home/ubuntu/data/project_data/cropped2/train/fake/easy_168_0010.png
+0,0,[0.5765292  0.42347077],/home/ubuntu/data/project_data/cropped2/train/fake/easy_169_1100.png
+0,0,[0.57879335 0.42120662],/home/ubuntu/data/project_data/cropped2/train/fake/easy_171_1100.png
+0,0,[0.57562166 0.42437837],/home/ubuntu/data/project_data/cropped2/train/fake/easy_172_1001.png
+0,0,[0.58028555 0.41971445],/home/ubuntu/data/project_data/cropped2/train/fake/easy_173_0111.png
+0,0,[0.57317513 0.4268249 ],/home/ubuntu/data/project_data/cropped2/train/fake/easy_174_1110.png
+0,0,[0.5744793  0.42552072],/home/ubuntu/data/project_data/cropped2/train/fake/easy_175_0001.png
+0,0,[0.5777311 0.422269 ],/home/ubuntu/data/project_data/cropped2/train/fake/easy_176_1000.png
+0,0,[0.58539015 0.41460985],/home/ubuntu/data/project_data/cropped2/train/fake/easy_177_1010.png
+0,0,[0.58064467 0.4193553 ],/home/ubuntu/data/project_data/cropped2/train/fake/easy_178_1111.png
+0,0,[0.58723915 0.41276082],/home/ubuntu/data/project_data/cropped2/train/fake/easy_179_0001.png
+0,0,[0.57359135 0.42640865],/home/ubuntu/data/project_data/cropped2/train/fake/easy_180_0011.png
+0,0,[0.5826669 0.4173331],/home/ubuntu/data/project_data/cropped2/train/fake/easy_181_1110.png
+0,0,[0.565791   0.43420902],/home/ubuntu/data/project_data/cropped2/train/fake/easy_182_0100.png
+0,0,[0.5839596  0.41604042],/home/ubuntu/data/project_data/cropped2/train/fake/easy_183_1111.png
+0,0,[0.5727526  0.42724746],/home/ubuntu/data/project_data/cropped2/train/fake/easy_184_0110.png
+0,0,[0.5812234  0.41877657],/home/ubuntu/data/project_data/cropped2/train/fake/easy_185_1101.png
+0,0,[0.57083637 0.42916366],/home/ubuntu/data/project_data/cropped2/train/fake/easy_186_1001.png
+0,0,[0.5723813  0.42761865],/home/ubuntu/data/project_data/cropped2/train/fake/easy_187_1110.png
+0,0,[0.5698323  0.43016765],/home/ubuntu/data/project_data/cropped2/train/fake/easy_188_1111.png
+0,0,[0.5713012  0.42869875],/home/ubuntu/data/project_data/cropped2/train/fake/easy_189_1101.png
+0,0,[0.57562536 0.42437467],/home/ubuntu/data/project_data/cropped2/train/fake/easy_190_0101.png
+0,0,[0.5878924 0.4121076],/home/ubuntu/data/project_data/cropped2/train/fake/easy_191_0001.png
+0,0,[0.5865963  0.41340372],/home/ubuntu/data/project_data/cropped2/train/fake/easy_192_1000.png
+0,0,[0.57671326 0.4232867 ],/home/ubuntu/data/project_data/cropped2/train/fake/easy_193_1110.png
+0,0,[0.57122046 0.42877957],/home/ubuntu/data/project_data/cropped2/train/fake/easy_194_1011.png
+0,0,[0.5617385  0.43826148],/home/ubuntu/data/project_data/cropped2/train/fake/easy_195_1110.png
+0,0,[0.5622744  0.43772563],/home/ubuntu/data/project_data/cropped2/train/fake/easy_196_0010.png
+0,0,[0.5705279  0.42947212],/home/ubuntu/data/project_data/cropped2/train/fake/easy_197_1111.png
+0,0,[0.56917    0.43082997],/home/ubuntu/data/project_data/cropped2/train/fake/easy_198_0011.png
+0,0,[0.5917759  0.40822414],/home/ubuntu/data/project_data/cropped2/train/fake/easy_199_1100.png
+0,0,[0.56689584 0.43310425],/home/ubuntu/data/project_data/cropped2/train/fake/easy_200_1110.png
+0,0,[0.58508724 0.4149128 ],/home/ubuntu/data/project_data/cropped2/train/fake/easy_201_0001.png
+0,0,[0.57937664 0.42062336],/home/ubuntu/data/project_data/cropped2/train/fake/easy_203_0111.png
+0,0,[0.58504033 0.41495964],/home/ubuntu/data/project_data/cropped2/train/fake/easy_204_0101.png
+0,0,[0.5849725 0.4150275],/home/ubuntu/data/project_data/cropped2/train/fake/easy_205_1110.png
+0,0,[0.57883567 0.4211643 ],/home/ubuntu/data/project_data/cropped2/train/fake/easy_206_0011.png
+0,0,[0.5706367  0.42936325],/home/ubuntu/data/project_data/cropped2/train/fake/easy_207_1000.png
+0,0,[0.5916006  0.40839943],/home/ubuntu/data/project_data/cropped2/train/fake/easy_208_1111.png
+0,0,[0.5806766  0.41932333],/home/ubuntu/data/project_data/cropped2/train/fake/easy_209_0001.png
+0,0,[0.58030295 0.41969708],/home/ubuntu/data/project_data/cropped2/train/fake/easy_210_1011.png
+0,0,[0.569021 0.430979],/home/ubuntu/data/project_data/cropped2/train/fake/easy_211_1100.png
+0,0,[0.5856225  0.41437754],/home/ubuntu/data/project_data/cropped2/train/fake/easy_212_0010.png
+0,0,[0.56757605 0.43242392],/home/ubuntu/data/project_data/cropped2/train/fake/easy_213_1111.png
+0,0,[0.58412844 0.41587153],/home/ubuntu/data/project_data/cropped2/train/fake/easy_214_0011.png
+0,0,[0.57629377 0.4237063 ],/home/ubuntu/data/project_data/cropped2/train/fake/easy_215_1111.png
+0,0,[0.57179606 0.4282039 ],/home/ubuntu/data/project_data/cropped2/train/fake/easy_216_1100.png
+0,0,[0.5925249  0.40747508],/home/ubuntu/data/project_data/cropped2/train/fake/easy_217_1111.png
+0,0,[0.5869308  0.41306913],/home/ubuntu/data/project_data/cropped2/train/fake/easy_218_0011.png
+0,0,[0.57463515 0.42536482],/home/ubuntu/data/project_data/cropped2/train/fake/easy_219_1101.png
+0,0,[0.5875349  0.41246513],/home/ubuntu/data/project_data/cropped2/train/fake/easy_220_1000.png
+0,0,[0.571415   0.42858496],/home/ubuntu/data/project_data/cropped2/train/fake/easy_221_0111.png
+0,0,[0.5692189 0.4307811],/home/ubuntu/data/project_data/cropped2/train/fake/easy_222_0011.png
+0,0,[0.5750016 0.4249984],/home/ubuntu/data/project_data/cropped2/train/fake/easy_223_0100.png
+0,0,[0.5823545 0.4176455],/home/ubuntu/data/project_data/cropped2/train/fake/easy_224_1100.png
+0,0,[0.5754824  0.42451754],/home/ubuntu/data/project_data/cropped2/train/fake/easy_225_0010.png
+0,0,[0.5794667 0.4205333],/home/ubuntu/data/project_data/cropped2/train/fake/easy_227_1110.png
+0,0,[0.5845662  0.41543385],/home/ubuntu/data/project_data/cropped2/train/fake/easy_228_0011.png
+0,0,[0.57071996 0.42928004],/home/ubuntu/data/project_data/cropped2/train/fake/easy_229_1000.png
+0,0,[0.5757173  0.42428276],/home/ubuntu/data/project_data/cropped2/train/fake/easy_230_1010.png
+0,0,[0.56778854 0.43221143],/home/ubuntu/data/project_data/cropped2/train/fake/easy_231_1011.png
+0,0,[0.57702845 0.42297158],/home/ubuntu/data/project_data/cropped2/train/fake/easy_232_1100.png
+0,0,[0.56840205 0.43159795],/home/ubuntu/data/project_data/cropped2/train/fake/easy_233_0010.png
+0,0,[0.5631909  0.43680903],/home/ubuntu/data/project_data/cropped2/train/fake/easy_234_1000.png
+0,0,[0.5747244  0.42527565],/home/ubuntu/data/project_data/cropped2/train/fake/easy_235_1111.png
+0,0,[0.5725252  0.42747477],/home/ubuntu/data/project_data/cropped2/train/fake/easy_237_0011.png
+0,0,[0.57570237 0.4242976 ],/home/ubuntu/data/project_data/cropped2/train/fake/easy_239_1110.png
+0,0,[0.5844018  0.41559818],/home/ubuntu/data/project_data/cropped2/train/fake/easy_48_0011.png
+0,0,[0.59185827 0.4081417 ],/home/ubuntu/data/project_data/cropped2/train/fake/easy_49_1000.png
+0,0,[0.56609374 0.43390626],/home/ubuntu/data/project_data/cropped2/train/fake/easy_50_0110.png
+0,0,[0.57713187 0.42286816],/home/ubuntu/data/project_data/cropped2/train/fake/easy_51_1110.png
+0,0,[0.5841727 0.4158272],/home/ubuntu/data/project_data/cropped2/train/fake/easy_52_1100.png
+0,0,[0.57671875 0.4232813 ],/home/ubuntu/data/project_data/cropped2/train/fake/easy_53_0001.png
+0,0,[0.5771374 0.4228626],/home/ubuntu/data/project_data/cropped2/train/fake/easy_54_1010.png
+0,0,[0.57432616 0.4256738 ],/home/ubuntu/data/project_data/cropped2/train/fake/easy_55_0011.png
+0,0,[0.572703   0.42729694],/home/ubuntu/data/project_data/cropped2/train/fake/easy_56_1110.png
+0,0,[0.5798769  0.42012313],/home/ubuntu/data/project_data/cropped2/train/fake/easy_58_0011.png
+0,0,[0.5869637  0.41303632],/home/ubuntu/data/project_data/cropped2/train/fake/easy_60_1111.png
+0,0,[0.58273804 0.41726196],/home/ubuntu/data/project_data/cropped2/train/fake/easy_61_0111.png
+0,0,[0.56873876 0.43126124],/home/ubuntu/data/project_data/cropped2/train/fake/easy_62_0001.png
+0,0,[0.5703583  0.42964175],/home/ubuntu/data/project_data/cropped2/train/fake/easy_63_1110.png
+0,0,[0.59258837 0.40741163],/home/ubuntu/data/project_data/cropped2/train/fake/easy_64_1111.png
+0,0,[0.58430034 0.41569963],/home/ubuntu/data/project_data/cropped2/train/fake/easy_65_1111.png
+0,0,[0.57771075 0.42228925],/home/ubuntu/data/project_data/cropped2/train/fake/easy_66_1101.png
+0,0,[0.58472484 0.4152752 ],/home/ubuntu/data/project_data/cropped2/train/fake/easy_67_0101.png
+0,0,[0.57687944 0.4231205 ],/home/ubuntu/data/project_data/cropped2/train/fake/easy_68_1100.png
+0,0,[0.5914239 0.4085761],/home/ubuntu/data/project_data/cropped2/train/fake/easy_69_1011.png
+0,0,[0.56327605 0.43672392],/home/ubuntu/data/project_data/cropped2/train/fake/easy_71_1100.png
+0,0,[0.57984996 0.42014998],/home/ubuntu/data/project_data/cropped2/train/fake/easy_72_1111.png
+0,0,[0.56364244 0.4363576 ],/home/ubuntu/data/project_data/cropped2/train/fake/easy_73_1110.png
+0,0,[0.5786158  0.42138422],/home/ubuntu/data/project_data/cropped2/train/fake/easy_74_0010.png
+0,0,[0.58909875 0.41090122],/home/ubuntu/data/project_data/cropped2/train/fake/easy_75_1100.png
+0,0,[0.57785165 0.42214838],/home/ubuntu/data/project_data/cropped2/train/fake/easy_76_1111.png
+0,0,[0.5666266  0.43337336],/home/ubuntu/data/project_data/cropped2/train/fake/easy_77_0111.png
+0,0,[0.59019095 0.40980908],/home/ubuntu/data/project_data/cropped2/train/fake/easy_78_1111.png
+0,0,[0.5705862  0.42941377],/home/ubuntu/data/project_data/cropped2/train/fake/easy_79_0001.png
+0,0,[0.57817334 0.42182666],/home/ubuntu/data/project_data/cropped2/train/fake/easy_80_0001.png
+0,0,[0.57894146 0.42105857],/home/ubuntu/data/project_data/cropped2/train/fake/easy_81_1111.png
+0,0,[0.589849   0.41015103],/home/ubuntu/data/project_data/cropped2/train/fake/easy_83_1110.png
+0,0,[0.5651069  0.43489304],/home/ubuntu/data/project_data/cropped2/train/fake/easy_84_0011.png
+0,0,[0.57348466 0.4265154 ],/home/ubuntu/data/project_data/cropped2/train/fake/easy_85_1111.png
+0,0,[0.58048856 0.41951147],/home/ubuntu/data/project_data/cropped2/train/fake/easy_86_0011.png
+0,0,[0.5930806  0.40691945],/home/ubuntu/data/project_data/cropped2/train/fake/easy_87_0110.png
+0,0,[0.57281923 0.42718074],/home/ubuntu/data/project_data/cropped2/train/fake/easy_88_0011.png
+0,0,[0.5672304  0.43276963],/home/ubuntu/data/project_data/cropped2/train/fake/easy_89_0010.png
+0,0,[0.58286166 0.41713834],/home/ubuntu/data/project_data/cropped2/train/fake/easy_90_1111.png
+0,0,[0.5793441  0.42065585],/home/ubuntu/data/project_data/cropped2/train/fake/easy_91_1000.png
+0,0,[0.5759965  0.42400348],/home/ubuntu/data/project_data/cropped2/train/fake/easy_92_0011.png
+0,0,[0.58246267 0.41753736],/home/ubuntu/data/project_data/cropped2/train/fake/easy_93_1010.png
+0,0,[0.57543355 0.42456648],/home/ubuntu/data/project_data/cropped2/train/fake/easy_94_0001.png
+0,0,[0.5924447  0.40755525],/home/ubuntu/data/project_data/cropped2/train/fake/easy_95_0101.png
+0,0,[0.5879893  0.41201076],/home/ubuntu/data/project_data/cropped2/train/fake/easy_96_0011.png
+0,0,[0.57405347 0.4259465 ],/home/ubuntu/data/project_data/cropped2/train/fake/easy_97_1111.png
+0,0,[0.57554734 0.4244527 ],/home/ubuntu/data/project_data/cropped2/train/fake/easy_98_0001.png
+0,0,[0.5770692 0.4229308],/home/ubuntu/data/project_data/cropped2/train/fake/easy_99_0101.png
+0,0,[0.57522875 0.42477122],/home/ubuntu/data/project_data/cropped2/train/fake/hard_100_1111.png
+0,0,[0.58060986 0.4193901 ],/home/ubuntu/data/project_data/cropped2/train/fake/hard_101_0011.png
+0,0,[0.5797651 0.4202349],/home/ubuntu/data/project_data/cropped2/train/fake/hard_102_1001.png
+0,0,[0.5809254  0.41907457],/home/ubuntu/data/project_data/cropped2/train/fake/hard_103_1101.png
+0,0,[0.5793961  0.42060393],/home/ubuntu/data/project_data/cropped2/train/fake/hard_104_1001.png
+0,0,[0.5895696 0.4104304],/home/ubuntu/data/project_data/cropped2/train/fake/hard_105_1011.png
+0,0,[0.5842449  0.41575512],/home/ubuntu/data/project_data/cropped2/train/fake/hard_106_1100.png
+0,0,[0.5781369  0.42186308],/home/ubuntu/data/project_data/cropped2/train/fake/hard_107_1111.png
+0,0,[0.5855716 0.4144284],/home/ubuntu/data/project_data/cropped2/train/fake/hard_108_1111.png
+0,0,[0.5908586  0.40914145],/home/ubuntu/data/project_data/cropped2/train/fake/hard_109_1100.png
+0,0,[0.58887357 0.41112638],/home/ubuntu/data/project_data/cropped2/train/fake/hard_111_1111.png
+0,0,[0.5757044  0.42429563],/home/ubuntu/data/project_data/cropped2/train/fake/hard_112_1111.png
+0,0,[0.5758205  0.42417946],/home/ubuntu/data/project_data/cropped2/train/fake/hard_113_0011.png
+0,0,[0.58313644 0.41686356],/home/ubuntu/data/project_data/cropped2/train/fake/hard_114_1111.png
+0,0,[0.5646736 0.4353264],/home/ubuntu/data/project_data/cropped2/train/fake/hard_115_1110.png
+0,0,[0.5815999 0.4184001],/home/ubuntu/data/project_data/cropped2/train/fake/hard_116_1101.png
+0,0,[0.57796246 0.4220376 ],/home/ubuntu/data/project_data/cropped2/train/fake/hard_117_1110.png
+0,0,[0.5987803  0.40121973],/home/ubuntu/data/project_data/cropped2/train/fake/hard_118_0111.png
+0,0,[0.5734742  0.42652577],/home/ubuntu/data/project_data/cropped2/train/fake/hard_119_1100.png
+0,0,[0.5771132  0.42288682],/home/ubuntu/data/project_data/cropped2/train/fake/hard_120_0011.png
+0,0,[0.5696061  0.43039384],/home/ubuntu/data/project_data/cropped2/train/fake/hard_121_1100.png
+0,0,[0.5739552  0.42604482],/home/ubuntu/data/project_data/cropped2/train/fake/hard_122_1100.png
+0,0,[0.5812104  0.41878965],/home/ubuntu/data/project_data/cropped2/train/fake/hard_123_1111.png
+0,0,[0.5850438 0.4149562],/home/ubuntu/data/project_data/cropped2/train/fake/hard_124_1100.png
+0,0,[0.57644296 0.423557  ],/home/ubuntu/data/project_data/cropped2/train/fake/hard_125_1100.png
+0,0,[0.5890897  0.41091028],/home/ubuntu/data/project_data/cropped2/train/fake/hard_126_0111.png
+0,0,[0.5812185  0.41878155],/home/ubuntu/data/project_data/cropped2/train/fake/hard_127_0011.png
+0,0,[0.5809347 0.4190652],/home/ubuntu/data/project_data/cropped2/train/fake/hard_128_1111.png
+0,0,[0.5876635  0.41233653],/home/ubuntu/data/project_data/cropped2/train/fake/hard_129_1111.png
+0,0,[0.58732146 0.41267848],/home/ubuntu/data/project_data/cropped2/train/fake/hard_130_1111.png
+0,0,[0.5949844  0.40501553],/home/ubuntu/data/project_data/cropped2/train/fake/hard_131_1000.png
+0,0,[0.5697685  0.43023148],/home/ubuntu/data/project_data/cropped2/train/fake/hard_132_0111.png
+0,0,[0.5694307  0.43056932],/home/ubuntu/data/project_data/cropped2/train/fake/hard_133_0001.png
+0,0,[0.5755733 0.4244267],/home/ubuntu/data/project_data/cropped2/train/fake/hard_134_1100.png
+0,0,[0.5890761 0.4109239],/home/ubuntu/data/project_data/cropped2/train/fake/hard_135_1101.png
+0,0,[0.5757649  0.42423514],/home/ubuntu/data/project_data/cropped2/train/fake/hard_136_1101.png
+0,0,[0.5770769  0.42292312],/home/ubuntu/data/project_data/cropped2/train/fake/hard_137_1001.png
+0,0,[0.57217926 0.42782074],/home/ubuntu/data/project_data/cropped2/train/fake/hard_138_1101.png
+0,0,[0.5737885  0.42621145],/home/ubuntu/data/project_data/cropped2/train/fake/hard_139_1011.png
+0,0,[0.57346094 0.42653903],/home/ubuntu/data/project_data/cropped2/train/fake/hard_140_1111.png
+0,0,[0.5904826 0.4095174],/home/ubuntu/data/project_data/cropped2/train/fake/hard_142_1110.png
+0,0,[0.5791888  0.42081115],/home/ubuntu/data/project_data/cropped2/train/fake/hard_143_0100.png
+0,0,[0.57538235 0.42461765],/home/ubuntu/data/project_data/cropped2/train/fake/hard_144_0011.png
+0,0,[0.57466084 0.42533922],/home/ubuntu/data/project_data/cropped2/train/fake/hard_145_1100.png
+0,0,[0.5827374  0.41726258],/home/ubuntu/data/project_data/cropped2/train/fake/hard_146_0110.png
+0,0,[0.5716757  0.42832434],/home/ubuntu/data/project_data/cropped2/train/fake/hard_147_1111.png
+0,0,[0.57061756 0.42938238],/home/ubuntu/data/project_data/cropped2/train/fake/hard_148_1010.png
+0,0,[0.58940524 0.41059476],/home/ubuntu/data/project_data/cropped2/train/fake/hard_149_0011.png
+0,0,[0.57746154 0.4225385 ],/home/ubuntu/data/project_data/cropped2/train/fake/hard_150_1000.png
+0,0,[0.5802516  0.41974846],/home/ubuntu/data/project_data/cropped2/train/fake/hard_151_0101.png
+0,0,[0.5948689 0.4051311],/home/ubuntu/data/project_data/cropped2/train/fake/hard_152_0111.png
+0,0,[0.5715247  0.42847535],/home/ubuntu/data/project_data/cropped2/train/fake/hard_153_1011.png
+0,0,[0.56384283 0.43615717],/home/ubuntu/data/project_data/cropped2/train/fake/hard_154_1100.png
+0,0,[0.5718164  0.42818362],/home/ubuntu/data/project_data/cropped2/train/fake/hard_155_0010.png
+0,0,[0.5725184  0.42748156],/home/ubuntu/data/project_data/cropped2/train/fake/hard_156_1111.png
+0,0,[0.58191156 0.4180884 ],/home/ubuntu/data/project_data/cropped2/train/fake/hard_157_1111.png
+0,0,[0.58170563 0.4182943 ],/home/ubuntu/data/project_data/cropped2/train/fake/hard_158_0011.png
+0,0,[0.56202686 0.43797317],/home/ubuntu/data/project_data/cropped2/train/fake/hard_159_0100.png
+0,0,[0.5857185  0.41428155],/home/ubuntu/data/project_data/cropped2/train/fake/hard_160_1111.png
+0,0,[0.5794859  0.42051414],/home/ubuntu/data/project_data/cropped2/train/fake/hard_161_1100.png
+0,0,[0.58306104 0.41693896],/home/ubuntu/data/project_data/cropped2/train/fake/hard_162_0010.png
+0,0,[0.5858053 0.4141947],/home/ubuntu/data/project_data/cropped2/train/fake/hard_163_0011.png
+0,0,[0.5995638  0.40043625],/home/ubuntu/data/project_data/cropped2/train/fake/hard_164_1000.png
+0,0,[0.5502135  0.44978648],/home/ubuntu/data/project_data/cropped2/train/fake/hard_165_1000.png
+0,0,[0.5788173  0.42118272],/home/ubuntu/data/project_data/cropped2/train/fake/hard_166_1110.png
+0,0,[0.5849973 0.4150027],/home/ubuntu/data/project_data/cropped2/train/fake/hard_167_0011.png
+0,0,[0.5937214  0.40627855],/home/ubuntu/data/project_data/cropped2/train/fake/hard_168_0011.png
+0,0,[0.58249134 0.4175087 ],/home/ubuntu/data/project_data/cropped2/train/fake/hard_169_0111.png
+0,0,[0.56813574 0.43186426],/home/ubuntu/data/project_data/cropped2/train/fake/hard_170_0111.png
+0,0,[0.5766867 0.4233133],/home/ubuntu/data/project_data/cropped2/train/fake/hard_171_1101.png
+0,0,[0.5796036  0.42039633],/home/ubuntu/data/project_data/cropped2/train/fake/hard_172_1100.png
+0,0,[0.58442956 0.41557044],/home/ubuntu/data/project_data/cropped2/train/fake/hard_173_1110.png
+0,0,[0.58549523 0.41450474],/home/ubuntu/data/project_data/cropped2/train/fake/hard_174_1111.png
+0,0,[0.57371825 0.42628178],/home/ubuntu/data/project_data/cropped2/train/fake/hard_175_1100.png
+0,0,[0.58440185 0.41559815],/home/ubuntu/data/project_data/cropped2/train/fake/hard_176_0011.png
+0,0,[0.57361126 0.4263887 ],/home/ubuntu/data/project_data/cropped2/train/fake/hard_177_1011.png
+0,0,[0.5847156  0.41528445],/home/ubuntu/data/project_data/cropped2/train/fake/hard_178_1001.png
+0,0,[0.57919383 0.4208061 ],/home/ubuntu/data/project_data/cropped2/train/fake/hard_179_1111.png
+0,0,[0.5871964 0.4128036],/home/ubuntu/data/project_data/cropped2/train/fake/hard_180_0011.png
+0,0,[0.58858883 0.41141114],/home/ubuntu/data/project_data/cropped2/train/fake/hard_181_0001.png
+0,0,[0.5749199  0.42508006],/home/ubuntu/data/project_data/cropped2/train/fake/hard_182_0011.png
+0,0,[0.5946401  0.40535995],/home/ubuntu/data/project_data/cropped2/train/fake/hard_183_1101.png
+0,0,[0.5848336  0.41516635],/home/ubuntu/data/project_data/cropped2/train/fake/hard_184_0011.png
+0,0,[0.5727146  0.42728537],/home/ubuntu/data/project_data/cropped2/train/fake/hard_185_1100.png
+0,0,[0.59271425 0.4072857 ],/home/ubuntu/data/project_data/cropped2/train/fake/hard_186_0011.png
+0,0,[0.5763048  0.42369524],/home/ubuntu/data/project_data/cropped2/train/fake/hard_187_0100.png
+0,0,[0.58396935 0.41603056],/home/ubuntu/data/project_data/cropped2/train/fake/hard_188_0100.png
+0,0,[0.5866273 0.4133727],/home/ubuntu/data/project_data/cropped2/train/fake/hard_189_0011.png
+0,0,[0.58141994 0.41858003],/home/ubuntu/data/project_data/cropped2/train/fake/hard_190_1111.png
+0,0,[0.5736575  0.42634252],/home/ubuntu/data/project_data/cropped2/train/fake/hard_191_0011.png
+0,0,[0.58038807 0.41961193],/home/ubuntu/data/project_data/cropped2/train/fake/hard_192_1111.png
+0,0,[0.5856954  0.41430467],/home/ubuntu/data/project_data/cropped2/train/fake/hard_193_1111.png
+0,0,[0.5829922 0.4170078],/home/ubuntu/data/project_data/cropped2/train/fake/hard_194_0110.png
+0,0,[0.57234204 0.42765793],/home/ubuntu/data/project_data/cropped2/train/fake/hard_195_1000.png
+0,0,[0.56965303 0.430347  ],/home/ubuntu/data/project_data/cropped2/train/fake/hard_196_1101.png
+0,0,[0.58592653 0.41407344],/home/ubuntu/data/project_data/cropped2/train/fake/hard_198_1100.png
+0,0,[0.582944   0.41705602],/home/ubuntu/data/project_data/cropped2/train/fake/hard_199_0011.png
+0,0,[0.581703   0.41829702],/home/ubuntu/data/project_data/cropped2/train/fake/hard_200_1111.png
+0,0,[0.56531084 0.43468913],/home/ubuntu/data/project_data/cropped2/train/fake/hard_201_0100.png
+0,0,[0.5718446  0.42815536],/home/ubuntu/data/project_data/cropped2/train/fake/hard_202_1101.png
+0,0,[0.57584906 0.42415094],/home/ubuntu/data/project_data/cropped2/train/fake/hard_203_0010.png
+0,0,[0.57302475 0.42697522],/home/ubuntu/data/project_data/cropped2/train/fake/hard_204_0011.png
+0,0,[0.5647529  0.43524712],/home/ubuntu/data/project_data/cropped2/train/fake/hard_205_0011.png
+0,0,[0.57069886 0.4293011 ],/home/ubuntu/data/project_data/cropped2/train/fake/hard_206_0001.png
+0,0,[0.58974093 0.41025907],/home/ubuntu/data/project_data/cropped2/train/fake/hard_207_1100.png
+0,0,[0.56466544 0.4353345 ],/home/ubuntu/data/project_data/cropped2/train/fake/hard_208_0001.png
+0,0,[0.5702197 0.4297803],/home/ubuntu/data/project_data/cropped2/train/fake/hard_209_1011.png
+0,0,[0.56648576 0.4335142 ],/home/ubuntu/data/project_data/cropped2/train/fake/hard_210_1100.png
+0,0,[0.5818337  0.41816628],/home/ubuntu/data/project_data/cropped2/train/fake/hard_211_0110.png
+0,0,[0.5635209 0.4364791],/home/ubuntu/data/project_data/cropped2/train/fake/hard_212_1101.png
+0,0,[0.580832   0.41916803],/home/ubuntu/data/project_data/cropped2/train/fake/hard_213_0101.png
+0,0,[0.5848917  0.41510835],/home/ubuntu/data/project_data/cropped2/train/fake/hard_214_1011.png
+0,0,[0.5848855 0.4151145],/home/ubuntu/data/project_data/cropped2/train/fake/hard_215_1101.png
+0,0,[0.5804427  0.41955727],/home/ubuntu/data/project_data/cropped2/train/fake/hard_216_0111.png
+0,0,[0.5760121  0.42398798],/home/ubuntu/data/project_data/cropped2/train/fake/hard_217_1100.png
+0,0,[0.58031076 0.41968924],/home/ubuntu/data/project_data/cropped2/train/fake/hard_218_0100.png
+0,0,[0.5754172  0.42458278],/home/ubuntu/data/project_data/cropped2/train/fake/hard_219_1101.png
+0,0,[0.5676109 0.4323891],/home/ubuntu/data/project_data/cropped2/train/fake/hard_220_1111.png
+0,0,[0.5780958  0.42190415],/home/ubuntu/data/project_data/cropped2/train/fake/hard_221_0101.png
+0,0,[0.57179993 0.42820007],/home/ubuntu/data/project_data/cropped2/train/fake/hard_222_1001.png
+0,0,[0.57653475 0.42346522],/home/ubuntu/data/project_data/cropped2/train/fake/hard_223_1111.png
+0,0,[0.57529545 0.42470452],/home/ubuntu/data/project_data/cropped2/train/fake/hard_224_0111.png
+0,0,[0.57091576 0.4290842 ],/home/ubuntu/data/project_data/cropped2/train/fake/hard_225_0011.png
+0,0,[0.5625231  0.43747684],/home/ubuntu/data/project_data/cropped2/train/fake/hard_226_0100.png
+0,0,[0.5730861  0.42691395],/home/ubuntu/data/project_data/cropped2/train/fake/hard_227_1100.png
+0,0,[0.5723879  0.42761207],/home/ubuntu/data/project_data/cropped2/train/fake/hard_228_1111.png
+0,0,[0.5786798  0.42132023],/home/ubuntu/data/project_data/cropped2/train/fake/hard_229_0100.png
+0,0,[0.5637524  0.43624762],/home/ubuntu/data/project_data/cropped2/train/fake/hard_230_1110.png
+0,0,[0.5821707  0.41782928],/home/ubuntu/data/project_data/cropped2/train/fake/hard_231_1111.png
+0,0,[0.577757   0.42224303],/home/ubuntu/data/project_data/cropped2/train/fake/hard_232_0001.png
+0,0,[0.57531655 0.42468348],/home/ubuntu/data/project_data/cropped2/train/fake/hard_233_0010.png
+0,0,[0.5749606  0.42503938],/home/ubuntu/data/project_data/cropped2/train/fake/hard_235_0001.png
+0,0,[0.58484226 0.41515774],/home/ubuntu/data/project_data/cropped2/train/fake/hard_236_1001.png
+0,0,[0.5752397  0.42476028],/home/ubuntu/data/project_data/cropped2/train/fake/hard_237_0010.png
+0,0,[0.5790926 0.4209074],/home/ubuntu/data/project_data/cropped2/train/fake/hard_238_1000.png
+0,0,[0.5832405  0.41675952],/home/ubuntu/data/project_data/cropped2/train/fake/hard_239_1000.png
+0,0,[0.58904535 0.41095462],/home/ubuntu/data/project_data/cropped2/train/fake/hard_240_1101.png
+0,0,[0.58609307 0.4139069 ],/home/ubuntu/data/project_data/cropped2/train/fake/hard_49_0010.png
+0,0,[0.5848477  0.41515234],/home/ubuntu/data/project_data/cropped2/train/fake/hard_50_1101.png
+0,0,[0.5792526  0.42074743],/home/ubuntu/data/project_data/cropped2/train/fake/hard_51_1111.png
+0,0,[0.5607457  0.43925428],/home/ubuntu/data/project_data/cropped2/train/fake/hard_52_1111.png
+0,0,[0.5578798  0.44212016],/home/ubuntu/data/project_data/cropped2/train/fake/hard_53_1100.png
+0,0,[0.57286984 0.42713016],/home/ubuntu/data/project_data/cropped2/train/fake/hard_55_0011.png
+0,0,[0.57903934 0.42096063],/home/ubuntu/data/project_data/cropped2/train/fake/hard_56_0100.png
+0,0,[0.59364253 0.40635747],/home/ubuntu/data/project_data/cropped2/train/fake/hard_57_0110.png
+0,0,[0.5715095  0.42849055],/home/ubuntu/data/project_data/cropped2/train/fake/hard_58_0001.png
+0,0,[0.57331973 0.4266803 ],/home/ubuntu/data/project_data/cropped2/train/fake/hard_59_1110.png
+0,0,[0.5751147  0.42488527],/home/ubuntu/data/project_data/cropped2/train/fake/hard_60_1111.png
+0,0,[0.58410543 0.41589457],/home/ubuntu/data/project_data/cropped2/train/fake/hard_61_0011.png
+0,0,[0.58044165 0.4195583 ],/home/ubuntu/data/project_data/cropped2/train/fake/hard_62_1010.png
+0,0,[0.5786243  0.42137572],/home/ubuntu/data/project_data/cropped2/train/fake/hard_63_1101.png
+0,0,[0.57251376 0.4274863 ],/home/ubuntu/data/project_data/cropped2/train/fake/hard_64_0010.png
+0,0,[0.58348656 0.4165134 ],/home/ubuntu/data/project_data/cropped2/train/fake/hard_65_0101.png
+0,0,[0.5723408  0.42765918],/home/ubuntu/data/project_data/cropped2/train/fake/hard_66_1111.png
+0,0,[0.574404 0.425596],/home/ubuntu/data/project_data/cropped2/train/fake/hard_67_0001.png
+0,0,[0.58890504 0.41109502],/home/ubuntu/data/project_data/cropped2/train/fake/hard_68_1100.png
+0,0,[0.58004916 0.4199508 ],/home/ubuntu/data/project_data/cropped2/train/fake/hard_69_0011.png
+0,0,[0.5842125 0.4157875],/home/ubuntu/data/project_data/cropped2/train/fake/hard_70_1100.png
+0,0,[0.57579154 0.4242084 ],/home/ubuntu/data/project_data/cropped2/train/fake/hard_71_1100.png
+0,0,[0.5639182 0.4360818],/home/ubuntu/data/project_data/cropped2/train/fake/hard_72_1100.png
+0,0,[0.5714809  0.42851916],/home/ubuntu/data/project_data/cropped2/train/fake/hard_73_0011.png
+0,0,[0.5847736  0.41522637],/home/ubuntu/data/project_data/cropped2/train/fake/hard_74_0011.png
+0,0,[0.57334787 0.42665213],/home/ubuntu/data/project_data/cropped2/train/fake/hard_75_0011.png
+0,0,[0.58300865 0.41699135],/home/ubuntu/data/project_data/cropped2/train/fake/hard_76_1100.png
+0,0,[0.57272243 0.42727757],/home/ubuntu/data/project_data/cropped2/train/fake/hard_77_1100.png
+0,0,[0.569497 0.430503],/home/ubuntu/data/project_data/cropped2/train/fake/hard_78_1101.png
+0,0,[0.5847166  0.41528332],/home/ubuntu/data/project_data/cropped2/train/fake/hard_79_1110.png
+0,0,[0.56609166 0.43390828],/home/ubuntu/data/project_data/cropped2/train/fake/hard_80_0100.png
+0,0,[0.57470065 0.42529938],/home/ubuntu/data/project_data/cropped2/train/fake/hard_81_1101.png
+0,0,[0.58990365 0.41009635],/home/ubuntu/data/project_data/cropped2/train/fake/hard_83_1111.png
+0,0,[0.5856167 0.4143833],/home/ubuntu/data/project_data/cropped2/train/fake/hard_84_0011.png
+0,0,[0.5672969 0.4327031],/home/ubuntu/data/project_data/cropped2/train/fake/hard_85_1111.png
+0,0,[0.5600275  0.43997252],/home/ubuntu/data/project_data/cropped2/train/fake/hard_86_1100.png
+0,0,[0.56924003 0.43076   ],/home/ubuntu/data/project_data/cropped2/train/fake/hard_87_1111.png
+0,0,[0.5710042 0.4289958],/home/ubuntu/data/project_data/cropped2/train/fake/hard_88_1111.png
+0,0,[0.57376593 0.42623407],/home/ubuntu/data/project_data/cropped2/train/fake/hard_89_1110.png
+0,0,[0.5903386 0.4096614],/home/ubuntu/data/project_data/cropped2/train/fake/hard_90_1100.png
+0,0,[0.57603794 0.42396203],/home/ubuntu/data/project_data/cropped2/train/fake/hard_91_1100.png
+0,0,[0.57144904 0.42855096],/home/ubuntu/data/project_data/cropped2/train/fake/hard_92_1001.png
+0,0,[0.5743863 0.4256137],/home/ubuntu/data/project_data/cropped2/train/fake/hard_93_1111.png
+0,0,[0.57943976 0.42056024],/home/ubuntu/data/project_data/cropped2/train/fake/hard_94_1111.png
+0,0,[0.5797651  0.42023495],/home/ubuntu/data/project_data/cropped2/train/fake/hard_95_0001.png
+0,0,[0.59470457 0.40529534],/home/ubuntu/data/project_data/cropped2/train/fake/hard_96_1110.png
+0,0,[0.5746857  0.42531425],/home/ubuntu/data/project_data/cropped2/train/fake/hard_97_1001.png
+0,0,[0.5826965  0.41730353],/home/ubuntu/data/project_data/cropped2/train/fake/hard_98_1101.png
+0,0,[0.5699634 0.4300366],/home/ubuntu/data/project_data/cropped2/train/fake/hard_99_1111.png
+0,0,[0.5624186 0.4375814],/home/ubuntu/data/project_data/cropped2/train/fake/mid_100_1110.png
+0,0,[0.57630545 0.42369458],/home/ubuntu/data/project_data/cropped2/train/fake/mid_101_1111.png
+0,0,[0.58015996 0.4198401 ],/home/ubuntu/data/project_data/cropped2/train/fake/mid_102_1100.png
+0,0,[0.5806652 0.4193348],/home/ubuntu/data/project_data/cropped2/train/fake/mid_103_1111.png
+0,0,[0.57636786 0.4236321 ],/home/ubuntu/data/project_data/cropped2/train/fake/mid_104_1100.png
+0,0,[0.5836174  0.41638264],/home/ubuntu/data/project_data/cropped2/train/fake/mid_105_1101.png
+0,0,[0.57372123 0.4262787 ],/home/ubuntu/data/project_data/cropped2/train/fake/mid_106_0001.png
+0,0,[0.5978429  0.40215713],/home/ubuntu/data/project_data/cropped2/train/fake/mid_107_0010.png
+0,0,[0.5675718 0.4324282],/home/ubuntu/data/project_data/cropped2/train/fake/mid_108_1110.png
+0,0,[0.58648956 0.4135104 ],/home/ubuntu/data/project_data/cropped2/train/fake/mid_109_1111.png
+0,0,[0.5783158  0.42168427],/home/ubuntu/data/project_data/cropped2/train/fake/mid_110_1100.png
+0,0,[0.57866126 0.42133877],/home/ubuntu/data/project_data/cropped2/train/fake/mid_111_0001.png
+0,0,[0.5665911  0.43340883],/home/ubuntu/data/project_data/cropped2/train/fake/mid_112_0001.png
+0,0,[0.56329364 0.4367064 ],/home/ubuntu/data/project_data/cropped2/train/fake/mid_113_1100.png
+0,0,[0.58425295 0.41574705],/home/ubuntu/data/project_data/cropped2/train/fake/mid_114_1110.png
+0,0,[0.5722798  0.42772016],/home/ubuntu/data/project_data/cropped2/train/fake/mid_115_0011.png
+0,0,[0.5867466 0.4132535],/home/ubuntu/data/project_data/cropped2/train/fake/mid_116_1111.png
+0,0,[0.55888945 0.44111058],/home/ubuntu/data/project_data/cropped2/train/fake/mid_117_1111.png
+0,0,[0.58102214 0.4189779 ],/home/ubuntu/data/project_data/cropped2/train/fake/mid_118_1000.png
+0,0,[0.5741882 0.4258118],/home/ubuntu/data/project_data/cropped2/train/fake/mid_119_1111.png
+0,0,[0.5795245  0.42047554],/home/ubuntu/data/project_data/cropped2/train/fake/mid_120_1100.png
+0,0,[0.5803212  0.41967887],/home/ubuntu/data/project_data/cropped2/train/fake/mid_121_1110.png
+0,0,[0.59259546 0.40740454],/home/ubuntu/data/project_data/cropped2/train/fake/mid_122_1100.png
+0,0,[0.5885448  0.41145518],/home/ubuntu/data/project_data/cropped2/train/fake/mid_123_1111.png
+0,0,[0.56607616 0.43392384],/home/ubuntu/data/project_data/cropped2/train/fake/mid_124_1110.png
+0,0,[0.59653693 0.40346307],/home/ubuntu/data/project_data/cropped2/train/fake/mid_125_1111.png
+0,0,[0.58056176 0.41943827],/home/ubuntu/data/project_data/cropped2/train/fake/mid_126_1110.png
+0,0,[0.58363944 0.4163606 ],/home/ubuntu/data/project_data/cropped2/train/fake/mid_127_0011.png
+0,0,[0.5696642  0.43033582],/home/ubuntu/data/project_data/cropped2/train/fake/mid_128_1110.png
+0,0,[0.5846329 0.4153671],/home/ubuntu/data/project_data/cropped2/train/fake/mid_129_0101.png
+0,0,[0.58702433 0.41297564],/home/ubuntu/data/project_data/cropped2/train/fake/mid_130_1111.png
+0,0,[0.5701172 0.4298828],/home/ubuntu/data/project_data/cropped2/train/fake/mid_131_1111.png
+0,0,[0.5710767  0.42892334],/home/ubuntu/data/project_data/cropped2/train/fake/mid_132_0001.png
+0,0,[0.5605858 0.4394142],/home/ubuntu/data/project_data/cropped2/train/fake/mid_133_1001.png
+0,0,[0.57723266 0.42276734],/home/ubuntu/data/project_data/cropped2/train/fake/mid_134_1010.png
+0,0,[0.56571424 0.4342857 ],/home/ubuntu/data/project_data/cropped2/train/fake/mid_135_1110.png
+0,0,[0.5826347  0.41736525],/home/ubuntu/data/project_data/cropped2/train/fake/mid_136_0001.png
+0,0,[0.5914472  0.40855274],/home/ubuntu/data/project_data/cropped2/train/fake/mid_137_1011.png
+0,0,[0.5889196  0.41108045],/home/ubuntu/data/project_data/cropped2/train/fake/mid_138_0011.png
+0,0,[0.5788463  0.42115366],/home/ubuntu/data/project_data/cropped2/train/fake/mid_139_1111.png
+0,0,[0.5755293  0.42447072],/home/ubuntu/data/project_data/cropped2/train/fake/mid_140_1111.png
+0,0,[0.58258027 0.4174197 ],/home/ubuntu/data/project_data/cropped2/train/fake/mid_141_1110.png
+0,0,[0.5893074  0.41069257],/home/ubuntu/data/project_data/cropped2/train/fake/mid_142_1100.png
+0,0,[0.58231825 0.41768172],/home/ubuntu/data/project_data/cropped2/train/fake/mid_143_1100.png
+0,0,[0.5811746  0.41882536],/home/ubuntu/data/project_data/cropped2/train/fake/mid_144_1110.png
+0,0,[0.5890928  0.41090724],/home/ubuntu/data/project_data/cropped2/train/fake/mid_145_1111.png
+0,0,[0.5680149 0.4319851],/home/ubuntu/data/project_data/cropped2/train/fake/mid_146_1111.png
+0,0,[0.57726127 0.4227387 ],/home/ubuntu/data/project_data/cropped2/train/fake/mid_147_1110.png
+0,0,[0.5847893 0.4152107],/home/ubuntu/data/project_data/cropped2/train/fake/mid_148_0001.png
+0,0,[0.577559 0.422441],/home/ubuntu/data/project_data/cropped2/train/fake/mid_149_0011.png
+0,0,[0.5853007  0.41469938],/home/ubuntu/data/project_data/cropped2/train/fake/mid_150_1111.png
+0,0,[0.5712681  0.42873186],/home/ubuntu/data/project_data/cropped2/train/fake/mid_151_1100.png
+0,0,[0.5754985  0.42450145],/home/ubuntu/data/project_data/cropped2/train/fake/mid_152_1100.png
+0,0,[0.5829704 0.4170296],/home/ubuntu/data/project_data/cropped2/train/fake/mid_153_1111.png
+0,0,[0.5748724  0.42512769],/home/ubuntu/data/project_data/cropped2/train/fake/mid_154_1111.png
+0,0,[0.5848753 0.4151247],/home/ubuntu/data/project_data/cropped2/train/fake/mid_155_1100.png
+0,0,[0.58688235 0.41311756],/home/ubuntu/data/project_data/cropped2/train/fake/mid_156_1111.png
+0,0,[0.5740321 0.4259679],/home/ubuntu/data/project_data/cropped2/train/fake/mid_157_1111.png
+0,0,[0.5756397 0.4243603],/home/ubuntu/data/project_data/cropped2/train/fake/mid_158_1010.png
+0,0,[0.5741404  0.42585957],/home/ubuntu/data/project_data/cropped2/train/fake/mid_159_1111.png
+0,0,[0.56745934 0.43254066],/home/ubuntu/data/project_data/cropped2/train/fake/mid_160_1110.png
+0,0,[0.5856462  0.41435376],/home/ubuntu/data/project_data/cropped2/train/fake/mid_161_0110.png
+0,0,[0.57919466 0.4208053 ],/home/ubuntu/data/project_data/cropped2/train/fake/mid_162_0011.png
+0,0,[0.57324445 0.42675558],/home/ubuntu/data/project_data/cropped2/train/fake/mid_163_1001.png
+0,0,[0.57399    0.42600995],/home/ubuntu/data/project_data/cropped2/train/fake/mid_164_0011.png
+0,0,[0.5769751  0.42302483],/home/ubuntu/data/project_data/cropped2/train/fake/mid_165_0101.png
+0,0,[0.588156   0.41184402],/home/ubuntu/data/project_data/cropped2/train/fake/mid_166_1100.png
+0,0,[0.59860486 0.4013951 ],/home/ubuntu/data/project_data/cropped2/train/fake/mid_167_1100.png
+0,0,[0.58734596 0.412654  ],/home/ubuntu/data/project_data/cropped2/train/fake/mid_168_1111.png
+0,0,[0.58383304 0.416167  ],/home/ubuntu/data/project_data/cropped2/train/fake/mid_169_0001.png
+0,0,[0.5817119  0.41828814],/home/ubuntu/data/project_data/cropped2/train/fake/mid_170_1111.png
+0,0,[0.58483    0.41517004],/home/ubuntu/data/project_data/cropped2/train/fake/mid_171_1100.png
+0,0,[0.57379234 0.4262077 ],/home/ubuntu/data/project_data/cropped2/train/fake/mid_172_1111.png
+0,0,[0.58122075 0.41877925],/home/ubuntu/data/project_data/cropped2/train/fake/mid_173_1110.png
+0,0,[0.58200127 0.41799876],/home/ubuntu/data/project_data/cropped2/train/fake/mid_174_1111.png
+0,0,[0.5764607  0.42353928],/home/ubuntu/data/project_data/cropped2/train/fake/mid_175_1111.png
+0,0,[0.5839732  0.41602683],/home/ubuntu/data/project_data/cropped2/train/fake/mid_176_1111.png
+0,0,[0.57470536 0.42529464],/home/ubuntu/data/project_data/cropped2/train/fake/mid_177_1111.png
+0,0,[0.5811764 0.4188236],/home/ubuntu/data/project_data/cropped2/train/fake/mid_178_1111.png
+0,0,[0.57608384 0.42391613],/home/ubuntu/data/project_data/cropped2/train/fake/mid_179_1111.png
+0,0,[0.56836754 0.4316325 ],/home/ubuntu/data/project_data/cropped2/train/fake/mid_180_1110.png
+0,0,[0.5709493  0.42905065],/home/ubuntu/data/project_data/cropped2/train/fake/mid_181_0011.png
+0,0,[0.5752575 0.4247425],/home/ubuntu/data/project_data/cropped2/train/fake/mid_182_1111.png
+0,0,[0.5818022  0.41819778],/home/ubuntu/data/project_data/cropped2/train/fake/mid_183_1111.png
+0,0,[0.5752366  0.42476335],/home/ubuntu/data/project_data/cropped2/train/fake/mid_184_1101.png
+0,0,[0.57502097 0.424979  ],/home/ubuntu/data/project_data/cropped2/train/fake/mid_185_1110.png
+0,0,[0.5572762  0.44272384],/home/ubuntu/data/project_data/cropped2/train/fake/mid_186_1100.png
+0,0,[0.57018656 0.42981344],/home/ubuntu/data/project_data/cropped2/train/fake/mid_187_1101.png
+0,0,[0.5841204  0.41587958],/home/ubuntu/data/project_data/cropped2/train/fake/mid_189_0011.png
+0,0,[0.5777091  0.42229092],/home/ubuntu/data/project_data/cropped2/train/fake/mid_190_1111.png
+0,0,[0.5885034  0.41149658],/home/ubuntu/data/project_data/cropped2/train/fake/mid_191_0111.png
+0,0,[0.57786566 0.42213437],/home/ubuntu/data/project_data/cropped2/train/fake/mid_192_1111.png
+0,0,[0.58492374 0.41507632],/home/ubuntu/data/project_data/cropped2/train/fake/mid_193_1111.png
+0,0,[0.5774806  0.42251942],/home/ubuntu/data/project_data/cropped2/train/fake/mid_194_1111.png
+0,0,[0.57335657 0.42664343],/home/ubuntu/data/project_data/cropped2/train/fake/mid_195_1111.png
+0,0,[0.5679538  0.43204615],/home/ubuntu/data/project_data/cropped2/train/fake/mid_196_1100.png
+0,0,[0.5726015 0.4273985],/home/ubuntu/data/project_data/cropped2/train/fake/mid_197_1110.png
+0,0,[0.5822065  0.41779354],/home/ubuntu/data/project_data/cropped2/train/fake/mid_198_1111.png
+0,0,[0.56575006 0.43425   ],/home/ubuntu/data/project_data/cropped2/train/fake/mid_199_0011.png
+0,0,[0.5803711  0.41962892],/home/ubuntu/data/project_data/cropped2/train/fake/mid_200_1111.png
+0,0,[0.598763   0.40123707],/home/ubuntu/data/project_data/cropped2/train/fake/mid_201_1111.png
+0,0,[0.5830731 0.4169269],/home/ubuntu/data/project_data/cropped2/train/fake/mid_202_1110.png
+0,0,[0.5728478  0.42715225],/home/ubuntu/data/project_data/cropped2/train/fake/mid_203_1111.png
+0,0,[0.5777502  0.42224982],/home/ubuntu/data/project_data/cropped2/train/fake/mid_204_1111.png
+0,0,[0.58806324 0.41193673],/home/ubuntu/data/project_data/cropped2/train/fake/mid_205_0011.png
+0,0,[0.58189005 0.41810995],/home/ubuntu/data/project_data/cropped2/train/fake/mid_206_1111.png
+0,0,[0.58232766 0.41767237],/home/ubuntu/data/project_data/cropped2/train/fake/mid_207_1111.png
+0,0,[0.57353395 0.42646605],/home/ubuntu/data/project_data/cropped2/train/fake/mid_208_1110.png
+0,0,[0.57642233 0.42357767],/home/ubuntu/data/project_data/cropped2/train/fake/mid_209_1111.png
+0,0,[0.5763228  0.42367718],/home/ubuntu/data/project_data/cropped2/train/fake/mid_210_0011.png
+0,0,[0.57855874 0.4214413 ],/home/ubuntu/data/project_data/cropped2/train/fake/mid_211_1100.png
+0,0,[0.58690804 0.41309196],/home/ubuntu/data/project_data/cropped2/train/fake/mid_212_1111.png
+0,0,[0.58686256 0.41313738],/home/ubuntu/data/project_data/cropped2/train/fake/mid_213_1111.png
+0,0,[0.55480987 0.44519004],/home/ubuntu/data/project_data/cropped2/train/fake/mid_214_1011.png
+0,0,[0.58272386 0.41727617],/home/ubuntu/data/project_data/cropped2/train/fake/mid_215_0011.png
+0,0,[0.56434375 0.43565625],/home/ubuntu/data/project_data/cropped2/train/fake/mid_216_1011.png
+0,0,[0.55858797 0.44141203],/home/ubuntu/data/project_data/cropped2/train/fake/mid_217_1111.png
+0,0,[0.57720584 0.42279416],/home/ubuntu/data/project_data/cropped2/train/fake/mid_218_1011.png
+0,0,[0.58177644 0.4182236 ],/home/ubuntu/data/project_data/cropped2/train/fake/mid_219_1111.png
+0,0,[0.57603174 0.42396826],/home/ubuntu/data/project_data/cropped2/train/fake/mid_220_0011.png
+0,0,[0.5799466 0.4200534],/home/ubuntu/data/project_data/cropped2/train/fake/mid_221_1100.png
+0,0,[0.56170565 0.43829435],/home/ubuntu/data/project_data/cropped2/train/fake/mid_222_1110.png
+0,0,[0.57901037 0.42098972],/home/ubuntu/data/project_data/cropped2/train/fake/mid_223_1111.png
+0,0,[0.568284 0.431716],/home/ubuntu/data/project_data/cropped2/train/fake/mid_224_1111.png
+0,0,[0.5790107  0.42098925],/home/ubuntu/data/project_data/cropped2/train/fake/mid_225_0111.png
+0,0,[0.5811734 0.4188266],/home/ubuntu/data/project_data/cropped2/train/fake/mid_226_1111.png
+0,0,[0.58315116 0.41684884],/home/ubuntu/data/project_data/cropped2/train/fake/mid_227_1111.png
+0,0,[0.57200986 0.4279902 ],/home/ubuntu/data/project_data/cropped2/train/fake/mid_228_1111.png
+0,0,[0.572174   0.42782596],/home/ubuntu/data/project_data/cropped2/train/fake/mid_229_1111.png
+0,0,[0.58341575 0.41658422],/home/ubuntu/data/project_data/cropped2/train/fake/mid_230_1110.png
+0,0,[0.5812172  0.41878274],/home/ubuntu/data/project_data/cropped2/train/fake/mid_231_1100.png
+0,0,[0.5704355 0.4295645],/home/ubuntu/data/project_data/cropped2/train/fake/mid_232_1111.png
+0,0,[0.58623385 0.41376615],/home/ubuntu/data/project_data/cropped2/train/fake/mid_233_1111.png
+0,0,[0.59812135 0.40187857],/home/ubuntu/data/project_data/cropped2/train/fake/mid_234_0010.png
+0,0,[0.5800474 0.4199526],/home/ubuntu/data/project_data/cropped2/train/fake/mid_235_1100.png
+0,0,[0.5818319  0.41816816],/home/ubuntu/data/project_data/cropped2/train/fake/mid_236_1111.png
+0,0,[0.5839815  0.41601852],/home/ubuntu/data/project_data/cropped2/train/fake/mid_237_1111.png
+0,0,[0.584842  0.4151579],/home/ubuntu/data/project_data/cropped2/train/fake/mid_238_1111.png
+0,0,[0.5766167  0.42338336],/home/ubuntu/data/project_data/cropped2/train/fake/mid_239_1011.png
+0,0,[0.5777091  0.42229092],/home/ubuntu/data/project_data/cropped2/train/fake/mid_240_1100.png
+0,0,[0.5851823  0.41481766],/home/ubuntu/data/project_data/cropped2/train/fake/mid_241_1111.png
+0,0,[0.59078926 0.4092108 ],/home/ubuntu/data/project_data/cropped2/train/fake/mid_242_1111.png
+0,0,[0.5641589  0.43584108],/home/ubuntu/data/project_data/cropped2/train/fake/mid_243_0011.png
+0,0,[0.5720122  0.42798775],/home/ubuntu/data/project_data/cropped2/train/fake/mid_244_1110.png
+0,0,[0.5855675  0.41443256],/home/ubuntu/data/project_data/cropped2/train/fake/mid_245_1100.png
+0,0,[0.583976 0.416024],/home/ubuntu/data/project_data/cropped2/train/fake/mid_246_0011.png
+0,0,[0.5866352  0.41336486],/home/ubuntu/data/project_data/cropped2/train/fake/mid_247_1111.png
+0,0,[0.56646407 0.4335359 ],/home/ubuntu/data/project_data/cropped2/train/fake/mid_248_0111.png
+0,0,[0.5759082  0.42409182],/home/ubuntu/data/project_data/cropped2/train/fake/mid_249_1111.png
+0,0,[0.5808568  0.41914317],/home/ubuntu/data/project_data/cropped2/train/fake/mid_250_1111.png
+0,0,[0.58353984 0.4164601 ],/home/ubuntu/data/project_data/cropped2/train/fake/mid_251_1111.png
+0,0,[0.57515144 0.42484856],/home/ubuntu/data/project_data/cropped2/train/fake/mid_252_1101.png
+0,0,[0.57722527 0.4227748 ],/home/ubuntu/data/project_data/cropped2/train/fake/mid_253_0101.png
+0,0,[0.58099014 0.41900986],/home/ubuntu/data/project_data/cropped2/train/fake/mid_254_1111.png
+0,0,[0.58197623 0.41802377],/home/ubuntu/data/project_data/cropped2/train/fake/mid_255_0011.png
+0,0,[0.5800017  0.41999832],/home/ubuntu/data/project_data/cropped2/train/fake/mid_256_1100.png
+0,0,[0.57307744 0.42692253],/home/ubuntu/data/project_data/cropped2/train/fake/mid_257_1111.png
+0,0,[0.5730069  0.42699313],/home/ubuntu/data/project_data/cropped2/train/fake/mid_258_1110.png
+0,0,[0.5902027 0.4097973],/home/ubuntu/data/project_data/cropped2/train/fake/mid_259_1101.png
+0,0,[0.5782644  0.42173558],/home/ubuntu/data/project_data/cropped2/train/fake/mid_260_1111.png
+0,0,[0.56104434 0.43895566],/home/ubuntu/data/project_data/cropped2/train/fake/mid_261_1101.png
+0,0,[0.5764592 0.4235408],/home/ubuntu/data/project_data/cropped2/train/fake/mid_262_1111.png
+0,0,[0.57077116 0.4292288 ],/home/ubuntu/data/project_data/cropped2/train/fake/mid_263_1100.png
+0,0,[0.58717644 0.41282353],/home/ubuntu/data/project_data/cropped2/train/fake/mid_264_1101.png
+0,0,[0.5849726  0.41502738],/home/ubuntu/data/project_data/cropped2/train/fake/mid_265_1111.png
+0,0,[0.5787143 0.4212857],/home/ubuntu/data/project_data/cropped2/train/fake/mid_266_1101.png
+0,0,[0.58734345 0.41265658],/home/ubuntu/data/project_data/cropped2/train/fake/mid_267_1111.png
+0,0,[0.5752205  0.42477944],/home/ubuntu/data/project_data/cropped2/train/fake/mid_268_0010.png
+0,0,[0.5610851  0.43891498],/home/ubuntu/data/project_data/cropped2/train/fake/mid_269_1100.png
+0,0,[0.5771225  0.42287758],/home/ubuntu/data/project_data/cropped2/train/fake/mid_270_0101.png
+0,0,[0.5723322  0.42766783],/home/ubuntu/data/project_data/cropped2/train/fake/mid_271_1111.png
+0,0,[0.57907695 0.42092308],/home/ubuntu/data/project_data/cropped2/train/fake/mid_272_1010.png
+0,0,[0.58992577 0.41007423],/home/ubuntu/data/project_data/cropped2/train/fake/mid_273_1101.png
+0,0,[0.585603  0.4143971],/home/ubuntu/data/project_data/cropped2/train/fake/mid_274_1100.png
+0,0,[0.5724619  0.42753807],/home/ubuntu/data/project_data/cropped2/train/fake/mid_275_1100.png
+0,0,[0.5653522 0.4346478],/home/ubuntu/data/project_data/cropped2/train/fake/mid_276_0011.png
+0,0,[0.5782321 0.4217679],/home/ubuntu/data/project_data/cropped2/train/fake/mid_278_1101.png
+0,0,[0.5967136  0.40328643],/home/ubuntu/data/project_data/cropped2/train/fake/mid_279_1111.png
+0,0,[0.5683684  0.43163165],/home/ubuntu/data/project_data/cropped2/train/fake/mid_280_1111.png
+0,0,[0.57244104 0.42755896],/home/ubuntu/data/project_data/cropped2/train/fake/mid_281_1111.png
+0,0,[0.564321   0.43567902],/home/ubuntu/data/project_data/cropped2/train/fake/mid_282_1100.png
+0,0,[0.58059174 0.4194082 ],/home/ubuntu/data/project_data/cropped2/train/fake/mid_283_0111.png
+0,0,[0.57142305 0.428577  ],/home/ubuntu/data/project_data/cropped2/train/fake/mid_284_1110.png
+0,0,[0.59335816 0.40664184],/home/ubuntu/data/project_data/cropped2/train/fake/mid_285_1111.png
+0,0,[0.56177616 0.43822384],/home/ubuntu/data/project_data/cropped2/train/fake/mid_286_1100.png
+0,0,[0.58048767 0.41951236],/home/ubuntu/data/project_data/cropped2/train/fake/mid_287_0001.png
+0,0,[0.5630527  0.43694732],/home/ubuntu/data/project_data/cropped2/train/fake/mid_288_1101.png
+0,0,[0.58139366 0.41860628],/home/ubuntu/data/project_data/cropped2/train/fake/mid_289_1101.png
+0,0,[0.5761818 0.4238182],/home/ubuntu/data/project_data/cropped2/train/fake/mid_290_1100.png
+0,0,[0.5684343 0.4315657],/home/ubuntu/data/project_data/cropped2/train/fake/mid_291_1100.png
+0,0,[0.58969015 0.41030982],/home/ubuntu/data/project_data/cropped2/train/fake/mid_292_1000.png
+0,0,[0.57853746 0.4214626 ],/home/ubuntu/data/project_data/cropped2/train/fake/mid_293_1101.png
+0,0,[0.587549   0.41245106],/home/ubuntu/data/project_data/cropped2/train/fake/mid_294_1110.png
+0,0,[0.5856427 0.4143573],/home/ubuntu/data/project_data/cropped2/train/fake/mid_295_0111.png
+0,0,[0.57958215 0.4204178 ],/home/ubuntu/data/project_data/cropped2/train/fake/mid_296_1111.png
+0,0,[0.5680194 0.4319806],/home/ubuntu/data/project_data/cropped2/train/fake/mid_297_0010.png
+0,0,[0.580164   0.41983593],/home/ubuntu/data/project_data/cropped2/train/fake/mid_298_0001.png
+0,0,[0.5851031  0.41489688],/home/ubuntu/data/project_data/cropped2/train/fake/mid_299_1100.png
+0,0,[0.57348806 0.4265119 ],/home/ubuntu/data/project_data/cropped2/train/fake/mid_300_0111.png
+0,0,[0.5593411  0.44065893],/home/ubuntu/data/project_data/cropped2/train/fake/mid_301_0101.png
+0,0,[0.5813769  0.41862306],/home/ubuntu/data/project_data/cropped2/train/fake/mid_302_1100.png
+0,0,[0.57513773 0.4248622 ],/home/ubuntu/data/project_data/cropped2/train/fake/mid_303_1100.png
+0,0,[0.5846182  0.41538176],/home/ubuntu/data/project_data/cropped2/train/fake/mid_304_1111.png
+0,0,[0.5809041 0.4190959],/home/ubuntu/data/project_data/cropped2/train/fake/mid_305_1101.png
+0,0,[0.55927145 0.44072852],/home/ubuntu/data/project_data/cropped2/train/fake/mid_306_1111.png
+0,0,[0.5741265  0.42587355],/home/ubuntu/data/project_data/cropped2/train/fake/mid_307_1101.png
+0,0,[0.5741961  0.42580387],/home/ubuntu/data/project_data/cropped2/train/fake/mid_308_1111.png
+0,0,[0.58871895 0.41128108],/home/ubuntu/data/project_data/cropped2/train/fake/mid_309_1111.png
+0,0,[0.57418054 0.4258195 ],/home/ubuntu/data/project_data/cropped2/train/fake/mid_310_0111.png
+0,0,[0.57995766 0.42004234],/home/ubuntu/data/project_data/cropped2/train/fake/mid_311_0011.png
+0,0,[0.57495797 0.425042  ],/home/ubuntu/data/project_data/cropped2/train/fake/mid_312_1111.png
+0,0,[0.5863086  0.41369143],/home/ubuntu/data/project_data/cropped2/train/fake/mid_313_1101.png
+0,0,[0.56522804 0.43477196],/home/ubuntu/data/project_data/cropped2/train/fake/mid_314_1101.png
+0,0,[0.58115834 0.41884163],/home/ubuntu/data/project_data/cropped2/train/fake/mid_315_1101.png
+0,0,[0.572823   0.42717698],/home/ubuntu/data/project_data/cropped2/train/fake/mid_316_1111.png
+0,0,[0.5625408 0.4374592],/home/ubuntu/data/project_data/cropped2/train/fake/mid_317_1101.png
+0,0,[0.5700827  0.42991725],/home/ubuntu/data/project_data/cropped2/train/fake/mid_318_1111.png
+0,0,[0.58677673 0.41322324],/home/ubuntu/data/project_data/cropped2/train/fake/mid_319_1111.png
+0,0,[0.57972157 0.4202784 ],/home/ubuntu/data/project_data/cropped2/train/fake/mid_320_1111.png
+0,0,[0.5930371  0.40696287],/home/ubuntu/data/project_data/cropped2/train/fake/mid_321_1110.png
+0,0,[0.5849176 0.4150824],/home/ubuntu/data/project_data/cropped2/train/fake/mid_322_1111.png
+0,0,[0.5926098 0.4073902],/home/ubuntu/data/project_data/cropped2/train/fake/mid_323_1101.png
+0,0,[0.5789443  0.42105567],/home/ubuntu/data/project_data/cropped2/train/fake/mid_324_1111.png
+0,0,[0.5738416  0.42615846],/home/ubuntu/data/project_data/cropped2/train/fake/mid_325_0011.png
+0,0,[0.5677633 0.4322367],/home/ubuntu/data/project_data/cropped2/train/fake/mid_326_1111.png
+0,0,[0.56944436 0.4305557 ],/home/ubuntu/data/project_data/cropped2/train/fake/mid_327_0111.png
+0,0,[0.5899906  0.41000944],/home/ubuntu/data/project_data/cropped2/train/fake/mid_329_1110.png
+0,0,[0.5933681 0.4066319],/home/ubuntu/data/project_data/cropped2/train/fake/mid_330_1111.png
+0,0,[0.5695156 0.4304844],/home/ubuntu/data/project_data/cropped2/train/fake/mid_331_0011.png
+0,0,[0.5778199 0.4221801],/home/ubuntu/data/project_data/cropped2/train/fake/mid_332_1111.png
+0,0,[0.58152544 0.41847453],/home/ubuntu/data/project_data/cropped2/train/fake/mid_333_1101.png
+0,0,[0.58378184 0.4162182 ],/home/ubuntu/data/project_data/cropped2/train/fake/mid_335_1100.png
+0,0,[0.5715003  0.42849973],/home/ubuntu/data/project_data/cropped2/train/fake/mid_336_1111.png
+0,0,[0.5731128  0.42688718],/home/ubuntu/data/project_data/cropped2/train/fake/mid_337_1111.png
+0,0,[0.59207684 0.40792316],/home/ubuntu/data/project_data/cropped2/train/fake/mid_338_1100.png
+0,0,[0.6052683  0.39473176],/home/ubuntu/data/project_data/cropped2/train/fake/mid_339_1100.png
+0,0,[0.56814724 0.43185273],/home/ubuntu/data/project_data/cropped2/train/fake/mid_340_1111.png
+0,0,[0.5845407 0.4154593],/home/ubuntu/data/project_data/cropped2/train/fake/mid_341_1110.png
+0,0,[0.58706397 0.41293603],/home/ubuntu/data/project_data/cropped2/train/fake/mid_343_1111.png
+0,0,[0.58083737 0.4191626 ],/home/ubuntu/data/project_data/cropped2/train/fake/mid_344_0010.png
+0,0,[0.5685825 0.4314175],/home/ubuntu/data/project_data/cropped2/train/fake/mid_345_1111.png
+0,0,[0.56738144 0.43261856],/home/ubuntu/data/project_data/cropped2/train/fake/mid_346_0011.png
+0,0,[0.5726966 0.4273033],/home/ubuntu/data/project_data/cropped2/train/fake/mid_347_0011.png
+0,0,[0.5734853  0.42651471],/home/ubuntu/data/project_data/cropped2/train/fake/mid_348_1100.png
+0,0,[0.5751321 0.424868 ],/home/ubuntu/data/project_data/cropped2/train/fake/mid_349_1111.png
+0,0,[0.59537303 0.40462694],/home/ubuntu/data/project_data/cropped2/train/fake/mid_350_0100.png
+0,0,[0.58799636 0.41200358],/home/ubuntu/data/project_data/cropped2/train/fake/mid_351_0110.png
+0,0,[0.56876445 0.43123555],/home/ubuntu/data/project_data/cropped2/train/fake/mid_353_0011.png
+0,0,[0.5881983  0.41180173],/home/ubuntu/data/project_data/cropped2/train/fake/mid_354_1110.png
+0,0,[0.5728485  0.42715147],/home/ubuntu/data/project_data/cropped2/train/fake/mid_355_1011.png
+0,0,[0.5693153  0.43068475],/home/ubuntu/data/project_data/cropped2/train/fake/mid_356_1110.png
+0,0,[0.58130467 0.41869536],/home/ubuntu/data/project_data/cropped2/train/fake/mid_357_0011.png
+0,0,[0.5876209  0.41237906],/home/ubuntu/data/project_data/cropped2/train/fake/mid_358_1100.png
+0,0,[0.5841271  0.41587284],/home/ubuntu/data/project_data/cropped2/train/fake/mid_359_1101.png
+0,0,[0.58708835 0.41291168],/home/ubuntu/data/project_data/cropped2/train/fake/mid_360_1100.png
+0,0,[0.5748029 0.4251971],/home/ubuntu/data/project_data/cropped2/train/fake/mid_361_0001.png
+0,0,[0.56509966 0.4349003 ],/home/ubuntu/data/project_data/cropped2/train/fake/mid_362_1101.png
+0,0,[0.57816344 0.42183656],/home/ubuntu/data/project_data/cropped2/train/fake/mid_363_1101.png
+0,0,[0.57909244 0.4209076 ],/home/ubuntu/data/project_data/cropped2/train/fake/mid_364_1111.png
+0,0,[0.5794142  0.42058584],/home/ubuntu/data/project_data/cropped2/train/fake/mid_365_1111.png
+0,0,[0.58621293 0.41378707],/home/ubuntu/data/project_data/cropped2/train/fake/mid_366_1111.png
+0,0,[0.5887906  0.41120937],/home/ubuntu/data/project_data/cropped2/train/fake/mid_367_0010.png
+0,0,[0.58426553 0.41573447],/home/ubuntu/data/project_data/cropped2/train/fake/mid_368_0110.png
+0,0,[0.5735182 0.4264818],/home/ubuntu/data/project_data/cropped2/train/fake/mid_369_1110.png
+0,0,[0.56765515 0.43234485],/home/ubuntu/data/project_data/cropped2/train/fake/mid_370_1111.png
+0,0,[0.563974 0.436026],/home/ubuntu/data/project_data/cropped2/train/fake/mid_371_0011.png
+0,0,[0.58169246 0.4183075 ],/home/ubuntu/data/project_data/cropped2/train/fake/mid_372_0011.png
+0,0,[0.58348113 0.41651887],/home/ubuntu/data/project_data/cropped2/train/fake/mid_373_1111.png
+0,0,[0.58106554 0.41893455],/home/ubuntu/data/project_data/cropped2/train/fake/mid_374_0011.png
+0,0,[0.5674005 0.4325995],/home/ubuntu/data/project_data/cropped2/train/fake/mid_375_1110.png
+0,0,[0.5642427  0.43575725],/home/ubuntu/data/project_data/cropped2/train/fake/mid_376_0001.png
+0,0,[0.58093184 0.4190681 ],/home/ubuntu/data/project_data/cropped2/train/fake/mid_377_0100.png
+0,0,[0.576029   0.42397097],/home/ubuntu/data/project_data/cropped2/train/fake/mid_378_1110.png
+0,0,[0.5757444  0.42425558],/home/ubuntu/data/project_data/cropped2/train/fake/mid_379_1100.png
+0,0,[0.5867056 0.4132944],/home/ubuntu/data/project_data/cropped2/train/fake/mid_380_1111.png
+0,0,[0.5778094  0.42219064],/home/ubuntu/data/project_data/cropped2/train/fake/mid_381_1101.png
+0,0,[0.57838255 0.42161748],/home/ubuntu/data/project_data/cropped2/train/fake/mid_382_0011.png
+0,0,[0.5849578 0.4150422],/home/ubuntu/data/project_data/cropped2/train/fake/mid_383_1100.png
+0,0,[0.583389   0.41661102],/home/ubuntu/data/project_data/cropped2/train/fake/mid_384_0011.png
+0,0,[0.5752562  0.42474374],/home/ubuntu/data/project_data/cropped2/train/fake/mid_386_1110.png
+0,0,[0.57586974 0.42413032],/home/ubuntu/data/project_data/cropped2/train/fake/mid_387_1100.png
+0,0,[0.57858616 0.4214138 ],/home/ubuntu/data/project_data/cropped2/train/fake/mid_388_1111.png
+0,0,[0.5729337 0.4270664],/home/ubuntu/data/project_data/cropped2/train/fake/mid_389_1101.png
+0,0,[0.58453184 0.41546813],/home/ubuntu/data/project_data/cropped2/train/fake/mid_390_0011.png
+0,0,[0.59180945 0.40819052],/home/ubuntu/data/project_data/cropped2/train/fake/mid_391_1110.png
+0,0,[0.5850457 0.4149543],/home/ubuntu/data/project_data/cropped2/train/fake/mid_392_1111.png
+0,0,[0.57477933 0.4252207 ],/home/ubuntu/data/project_data/cropped2/train/fake/mid_393_1101.png
+0,0,[0.5869966 0.4130034],/home/ubuntu/data/project_data/cropped2/train/fake/mid_394_1111.png
+0,0,[0.57418597 0.42581406],/home/ubuntu/data/project_data/cropped2/train/fake/mid_395_1110.png
+0,0,[0.58248365 0.41751635],/home/ubuntu/data/project_data/cropped2/train/fake/mid_396_1011.png
+0,0,[0.5948992  0.40510085],/home/ubuntu/data/project_data/cropped2/train/fake/mid_397_1111.png
+0,0,[0.57460165 0.42539838],/home/ubuntu/data/project_data/cropped2/train/fake/mid_398_0011.png
+0,0,[0.5805696 0.4194304],/home/ubuntu/data/project_data/cropped2/train/fake/mid_399_0011.png
+0,0,[0.58946294 0.4105371 ],/home/ubuntu/data/project_data/cropped2/train/fake/mid_400_0011.png
+0,0,[0.5760722  0.42392778],/home/ubuntu/data/project_data/cropped2/train/fake/mid_401_0111.png
+0,0,[0.56825316 0.43174687],/home/ubuntu/data/project_data/cropped2/train/fake/mid_402_0011.png
+0,0,[0.5782463 0.4217537],/home/ubuntu/data/project_data/cropped2/train/fake/mid_403_1111.png
+0,0,[0.5883678  0.41163224],/home/ubuntu/data/project_data/cropped2/train/fake/mid_404_0011.png
+0,0,[0.5688628 0.4311372],/home/ubuntu/data/project_data/cropped2/train/fake/mid_405_0011.png
+0,0,[0.5901849 0.409815 ],/home/ubuntu/data/project_data/cropped2/train/fake/mid_406_0011.png
+0,0,[0.5747452  0.42525485],/home/ubuntu/data/project_data/cropped2/train/fake/mid_407_1111.png
+0,0,[0.5778445 0.4221555],/home/ubuntu/data/project_data/cropped2/train/fake/mid_409_1101.png
+0,0,[0.5740304  0.42596963],/home/ubuntu/data/project_data/cropped2/train/fake/mid_410_1111.png
+0,0,[0.5697054 0.4302945],/home/ubuntu/data/project_data/cropped2/train/fake/mid_411_1111.png
+0,0,[0.56770784 0.4322922 ],/home/ubuntu/data/project_data/cropped2/train/fake/mid_412_0011.png
+0,0,[0.5778608 0.4221392],/home/ubuntu/data/project_data/cropped2/train/fake/mid_414_0011.png
+0,0,[0.58221304 0.41778702],/home/ubuntu/data/project_data/cropped2/train/fake/mid_415_1111.png
+0,0,[0.5832791 0.4167209],/home/ubuntu/data/project_data/cropped2/train/fake/mid_416_1111.png
+0,0,[0.575371   0.42462897],/home/ubuntu/data/project_data/cropped2/train/fake/mid_417_1111.png
+0,0,[0.58692485 0.4130751 ],/home/ubuntu/data/project_data/cropped2/train/fake/mid_418_1101.png
+0,0,[0.5702124 0.4297876],/home/ubuntu/data/project_data/cropped2/train/fake/mid_419_0011.png
+0,0,[0.5578281 0.4421719],/home/ubuntu/data/project_data/cropped2/train/fake/mid_420_1101.png
+0,0,[0.5722292 0.4277708],/home/ubuntu/data/project_data/cropped2/train/fake/mid_421_0011.png
+0,0,[0.58222675 0.41777322],/home/ubuntu/data/project_data/cropped2/train/fake/mid_422_0011.png
+0,0,[0.5734285  0.42657146],/home/ubuntu/data/project_data/cropped2/train/fake/mid_423_1101.png
+0,0,[0.56228393 0.4377161 ],/home/ubuntu/data/project_data/cropped2/train/fake/mid_424_1111.png
+0,0,[0.5637035  0.43629655],/home/ubuntu/data/project_data/cropped2/train/fake/mid_425_1111.png
+0,0,[0.56779295 0.43220702],/home/ubuntu/data/project_data/cropped2/train/fake/mid_426_1111.png
+0,0,[0.5832769  0.41672304],/home/ubuntu/data/project_data/cropped2/train/fake/mid_427_1010.png
+0,0,[0.58232975 0.41767025],/home/ubuntu/data/project_data/cropped2/train/fake/mid_428_0001.png
+0,0,[0.57703596 0.4229641 ],/home/ubuntu/data/project_data/cropped2/train/fake/mid_429_1110.png
+0,0,[0.57208514 0.42791483],/home/ubuntu/data/project_data/cropped2/train/fake/mid_430_1111.png
+0,0,[0.5758944 0.4241056],/home/ubuntu/data/project_data/cropped2/train/fake/mid_431_0001.png
+0,0,[0.5766926 0.4233074],/home/ubuntu/data/project_data/cropped2/train/fake/mid_433_0011.png
+0,0,[0.55871874 0.44128123],/home/ubuntu/data/project_data/cropped2/train/fake/mid_434_1110.png
+0,0,[0.5881144  0.41188568],/home/ubuntu/data/project_data/cropped2/train/fake/mid_435_1111.png
+0,0,[0.5902722  0.40972778],/home/ubuntu/data/project_data/cropped2/train/fake/mid_436_1111.png
+0,0,[0.58417404 0.415826  ],/home/ubuntu/data/project_data/cropped2/train/fake/mid_437_1101.png
+0,0,[0.5858037  0.41419628],/home/ubuntu/data/project_data/cropped2/train/fake/mid_438_0010.png
+0,0,[0.5782471  0.42175296],/home/ubuntu/data/project_data/cropped2/train/fake/mid_439_1000.png
+0,0,[0.5602215  0.43977845],/home/ubuntu/data/project_data/cropped2/train/fake/mid_440_0101.png
+0,0,[0.5626289  0.43737113],/home/ubuntu/data/project_data/cropped2/train/fake/mid_441_0011.png
+0,0,[0.5711854  0.42881456],/home/ubuntu/data/project_data/cropped2/train/fake/mid_442_0111.png
+0,0,[0.57208025 0.42791983],/home/ubuntu/data/project_data/cropped2/train/fake/mid_443_0011.png
+0,0,[0.5747858  0.42521414],/home/ubuntu/data/project_data/cropped2/train/fake/mid_444_1111.png
+0,0,[0.57067597 0.42932406],/home/ubuntu/data/project_data/cropped2/train/fake/mid_445_1111.png
+0,0,[0.5872574 0.4127426],/home/ubuntu/data/project_data/cropped2/train/fake/mid_446_0011.png
+0,0,[0.5744294 0.4255707],/home/ubuntu/data/project_data/cropped2/train/fake/mid_447_0011.png
+0,0,[0.58411527 0.4158847 ],/home/ubuntu/data/project_data/cropped2/train/fake/mid_448_0011.png
+0,0,[0.57480067 0.42519933],/home/ubuntu/data/project_data/cropped2/train/fake/mid_449_1111.png
+0,0,[0.5889853  0.41101465],/home/ubuntu/data/project_data/cropped2/train/fake/mid_450_1101.png
+0,0,[0.57566077 0.4243393 ],/home/ubuntu/data/project_data/cropped2/train/fake/mid_451_1111.png
+0,0,[0.5746019  0.42539808],/home/ubuntu/data/project_data/cropped2/train/fake/mid_452_1111.png
+0,0,[0.55923426 0.4407657 ],/home/ubuntu/data/project_data/cropped2/train/fake/mid_453_1111.png
+0,0,[0.5653726  0.43462738],/home/ubuntu/data/project_data/cropped2/train/fake/mid_454_1111.png
+0,0,[0.58533907 0.41466096],/home/ubuntu/data/project_data/cropped2/train/fake/mid_455_0101.png
+0,0,[0.58562255 0.41437745],/home/ubuntu/data/project_data/cropped2/train/fake/mid_456_1111.png
+0,0,[0.5794543  0.42054567],/home/ubuntu/data/project_data/cropped2/train/fake/mid_457_1100.png
+0,0,[0.58726346 0.41273656],/home/ubuntu/data/project_data/cropped2/train/fake/mid_458_1111.png
+0,0,[0.5816598 0.4183402],/home/ubuntu/data/project_data/cropped2/train/fake/mid_459_1001.png
+0,0,[0.5725362  0.42746386],/home/ubuntu/data/project_data/cropped2/train/fake/mid_460_1111.png
+0,0,[0.58177173 0.41822827],/home/ubuntu/data/project_data/cropped2/train/fake/mid_461_1100.png
+0,0,[0.56711775 0.43288228],/home/ubuntu/data/project_data/cropped2/train/fake/mid_462_1101.png
+0,0,[0.57985586 0.42014417],/home/ubuntu/data/project_data/cropped2/train/fake/mid_463_0100.png
+0,0,[0.5787422  0.42125785],/home/ubuntu/data/project_data/cropped2/train/fake/mid_464_1111.png
+0,0,[0.579227   0.42077306],/home/ubuntu/data/project_data/cropped2/train/fake/mid_465_1111.png
+0,0,[0.57485974 0.42514026],/home/ubuntu/data/project_data/cropped2/train/fake/mid_466_1111.png
+0,0,[0.5772216  0.42277846],/home/ubuntu/data/project_data/cropped2/train/fake/mid_467_1111.png
+0,0,[0.5707647  0.42923522],/home/ubuntu/data/project_data/cropped2/train/fake/mid_468_1110.png
+0,0,[0.57089716 0.42910278],/home/ubuntu/data/project_data/cropped2/train/fake/mid_469_1111.png
+0,0,[0.5786224  0.42137763],/home/ubuntu/data/project_data/cropped2/train/fake/mid_470_1001.png
+0,0,[0.57335955 0.42664045],/home/ubuntu/data/project_data/cropped2/train/fake/mid_471_1111.png
+0,0,[0.5821794  0.41782054],/home/ubuntu/data/project_data/cropped2/train/fake/mid_472_1101.png
+0,0,[0.5709446  0.42905542],/home/ubuntu/data/project_data/cropped2/train/fake/mid_473_0011.png
+0,0,[0.5825249  0.41747516],/home/ubuntu/data/project_data/cropped2/train/fake/mid_474_1110.png
+0,0,[0.5790131  0.42098692],/home/ubuntu/data/project_data/cropped2/train/fake/mid_475_1111.png
+0,0,[0.57660574 0.42339426],/home/ubuntu/data/project_data/cropped2/train/fake/mid_476_1111.png
+0,0,[0.5807445  0.41925552],/home/ubuntu/data/project_data/cropped2/train/fake/mid_477_1100.png
+0,0,[0.57370174 0.4262983 ],/home/ubuntu/data/project_data/cropped2/train/fake/mid_478_1101.png
+0,0,[0.56359154 0.43640846],/home/ubuntu/data/project_data/cropped2/train/fake/mid_479_1111.png
+0,0,[0.5708536 0.4291464],/home/ubuntu/data/project_data/cropped2/train/fake/mid_480_1111.png
+0,0,[0.5796569  0.42034313],/home/ubuntu/data/project_data/cropped2/train/fake/mid_97_1111.png
+0,0,[0.5655293  0.43447074],/home/ubuntu/data/project_data/cropped2/train/fake/mid_98_1111.png
+0,0,[0.5666466  0.43335345],/home/ubuntu/data/project_data/cropped2/train/fake/mid_99_1100.png
+1,0,[0.58118725 0.41881275],/home/ubuntu/data/project_data/cropped2/train/real/real_00217.png
+1,0,[0.57061726 0.42938268],/home/ubuntu/data/project_data/cropped2/train/real/real_00218.png
+1,0,[0.5837644 0.4162356],/home/ubuntu/data/project_data/cropped2/train/real/real_00220.png
+1,0,[0.57649577 0.42350426],/home/ubuntu/data/project_data/cropped2/train/real/real_00221.png
+1,0,[0.5747255 0.4252745],/home/ubuntu/data/project_data/cropped2/train/real/real_00223.png
+1,0,[0.5676538  0.43234628],/home/ubuntu/data/project_data/cropped2/train/real/real_00225.png
+1,0,[0.5774733  0.42252675],/home/ubuntu/data/project_data/cropped2/train/real/real_00226.png
+1,0,[0.56803405 0.43196595],/home/ubuntu/data/project_data/cropped2/train/real/real_00227.png
+1,0,[0.5769952  0.42300478],/home/ubuntu/data/project_data/cropped2/train/real/real_00228.png
+1,0,[0.57608366 0.42391637],/home/ubuntu/data/project_data/cropped2/train/real/real_00229.png
+1,0,[0.5673391 0.4326609],/home/ubuntu/data/project_data/cropped2/train/real/real_00230.png
+1,0,[0.57923037 0.4207696 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00231.png
+1,0,[0.5859259  0.41407406],/home/ubuntu/data/project_data/cropped2/train/real/real_00232.png
+1,0,[0.5810024  0.41899765],/home/ubuntu/data/project_data/cropped2/train/real/real_00233.png
+1,0,[0.5738852 0.4261148],/home/ubuntu/data/project_data/cropped2/train/real/real_00234.png
+1,0,[0.5780384  0.42196158],/home/ubuntu/data/project_data/cropped2/train/real/real_00235.png
+1,0,[0.5823089 0.4176911],/home/ubuntu/data/project_data/cropped2/train/real/real_00236.png
+1,0,[0.58243465 0.41756532],/home/ubuntu/data/project_data/cropped2/train/real/real_00237.png
+1,0,[0.58271813 0.41728187],/home/ubuntu/data/project_data/cropped2/train/real/real_00239.png
+1,0,[0.5764137  0.42358628],/home/ubuntu/data/project_data/cropped2/train/real/real_00241.png
+1,0,[0.56624657 0.43375346],/home/ubuntu/data/project_data/cropped2/train/real/real_00242.png
+1,0,[0.5770274  0.42297262],/home/ubuntu/data/project_data/cropped2/train/real/real_00243.png
+1,0,[0.5901317  0.40986827],/home/ubuntu/data/project_data/cropped2/train/real/real_00244.png
+1,0,[0.57905215 0.42094782],/home/ubuntu/data/project_data/cropped2/train/real/real_00245.png
+1,0,[0.57824445 0.42175564],/home/ubuntu/data/project_data/cropped2/train/real/real_00246.png
+1,0,[0.5766031  0.42339686],/home/ubuntu/data/project_data/cropped2/train/real/real_00248.png
+1,0,[0.56739575 0.43260422],/home/ubuntu/data/project_data/cropped2/train/real/real_00249.png
+1,0,[0.5737367 0.4262633],/home/ubuntu/data/project_data/cropped2/train/real/real_00250.png
+1,0,[0.573615 0.426385],/home/ubuntu/data/project_data/cropped2/train/real/real_00251.png
+1,0,[0.59456354 0.40543643],/home/ubuntu/data/project_data/cropped2/train/real/real_00252.png
+1,0,[0.5787607 0.4212393],/home/ubuntu/data/project_data/cropped2/train/real/real_00253.png
+1,0,[0.5784298 0.4215702],/home/ubuntu/data/project_data/cropped2/train/real/real_00255.png
+1,0,[0.5748113  0.42518875],/home/ubuntu/data/project_data/cropped2/train/real/real_00256.png
+1,0,[0.5789758  0.42102417],/home/ubuntu/data/project_data/cropped2/train/real/real_00257.png
+1,0,[0.5722447  0.42775533],/home/ubuntu/data/project_data/cropped2/train/real/real_00258.png
+1,0,[0.57186395 0.42813602],/home/ubuntu/data/project_data/cropped2/train/real/real_00260.png
+1,0,[0.5758821  0.42411786],/home/ubuntu/data/project_data/cropped2/train/real/real_00261.png
+1,0,[0.5646024  0.43539765],/home/ubuntu/data/project_data/cropped2/train/real/real_00262.png
+1,0,[0.5796513 0.4203487],/home/ubuntu/data/project_data/cropped2/train/real/real_00263.png
+1,0,[0.58141285 0.41858718],/home/ubuntu/data/project_data/cropped2/train/real/real_00264.png
+1,0,[0.5693175  0.43068254],/home/ubuntu/data/project_data/cropped2/train/real/real_00265.png
+1,0,[0.556271   0.44372895],/home/ubuntu/data/project_data/cropped2/train/real/real_00266.png
+1,0,[0.5929991  0.40700087],/home/ubuntu/data/project_data/cropped2/train/real/real_00267.png
+1,0,[0.5880979 0.4119021],/home/ubuntu/data/project_data/cropped2/train/real/real_00268.png
+1,0,[0.5906668 0.4093333],/home/ubuntu/data/project_data/cropped2/train/real/real_00269.png
+1,0,[0.57639766 0.42360234],/home/ubuntu/data/project_data/cropped2/train/real/real_00270.png
+1,0,[0.589916   0.41008404],/home/ubuntu/data/project_data/cropped2/train/real/real_00271.png
+1,0,[0.5752559  0.42474416],/home/ubuntu/data/project_data/cropped2/train/real/real_00272.png
+1,0,[0.5772475 0.4227525],/home/ubuntu/data/project_data/cropped2/train/real/real_00273.png
+1,0,[0.5874331  0.41256687],/home/ubuntu/data/project_data/cropped2/train/real/real_00274.png
+1,0,[0.57557046 0.42442954],/home/ubuntu/data/project_data/cropped2/train/real/real_00275.png
+1,0,[0.5674181  0.43258184],/home/ubuntu/data/project_data/cropped2/train/real/real_00276.png
+1,0,[0.5779567  0.42204335],/home/ubuntu/data/project_data/cropped2/train/real/real_00277.png
+1,0,[0.56861377 0.4313862 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00278.png
+1,0,[0.58680445 0.41319552],/home/ubuntu/data/project_data/cropped2/train/real/real_00279.png
+1,0,[0.5634203  0.43657967],/home/ubuntu/data/project_data/cropped2/train/real/real_00280.png
+1,0,[0.5783385  0.42166147],/home/ubuntu/data/project_data/cropped2/train/real/real_00281.png
+1,0,[0.5933508  0.40664917],/home/ubuntu/data/project_data/cropped2/train/real/real_00282.png
+1,0,[0.57092965 0.42907038],/home/ubuntu/data/project_data/cropped2/train/real/real_00283.png
+1,0,[0.57134414 0.4286559 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00284.png
+1,0,[0.5844403  0.41555974],/home/ubuntu/data/project_data/cropped2/train/real/real_00285.png
+1,0,[0.5774507  0.42254934],/home/ubuntu/data/project_data/cropped2/train/real/real_00286.png
+1,0,[0.5878278  0.41217226],/home/ubuntu/data/project_data/cropped2/train/real/real_00287.png
+1,0,[0.5726957  0.42730433],/home/ubuntu/data/project_data/cropped2/train/real/real_00288.png
+1,0,[0.57335114 0.4266488 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00289.png
+1,0,[0.5852631 0.414737 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00290.png
+1,0,[0.56659555 0.43340442],/home/ubuntu/data/project_data/cropped2/train/real/real_00291.png
+1,0,[0.5788677  0.42113236],/home/ubuntu/data/project_data/cropped2/train/real/real_00292.png
+1,0,[0.5700542  0.42994583],/home/ubuntu/data/project_data/cropped2/train/real/real_00293.png
+1,0,[0.57631075 0.42368925],/home/ubuntu/data/project_data/cropped2/train/real/real_00294.png
+1,0,[0.58638227 0.41361776],/home/ubuntu/data/project_data/cropped2/train/real/real_00295.png
+1,0,[0.5711028 0.4288972],/home/ubuntu/data/project_data/cropped2/train/real/real_00296.png
+1,0,[0.59634155 0.40365845],/home/ubuntu/data/project_data/cropped2/train/real/real_00297.png
+1,0,[0.57739663 0.42260334],/home/ubuntu/data/project_data/cropped2/train/real/real_00298.png
+1,0,[0.5631866  0.43681335],/home/ubuntu/data/project_data/cropped2/train/real/real_00300.png
+1,0,[0.5739066 0.4260934],/home/ubuntu/data/project_data/cropped2/train/real/real_00302.png
+1,0,[0.5798238  0.42017618],/home/ubuntu/data/project_data/cropped2/train/real/real_00303.png
+1,0,[0.5744118 0.4255882],/home/ubuntu/data/project_data/cropped2/train/real/real_00304.png
+1,0,[0.57555026 0.4244498 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00305.png
+1,0,[0.60071844 0.3992816 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00306.png
+1,0,[0.5798421 0.4201579],/home/ubuntu/data/project_data/cropped2/train/real/real_00307.png
+1,0,[0.5726793 0.4273207],/home/ubuntu/data/project_data/cropped2/train/real/real_00310.png
+1,0,[0.5767158  0.42328417],/home/ubuntu/data/project_data/cropped2/train/real/real_00311.png
+1,0,[0.56849647 0.43150356],/home/ubuntu/data/project_data/cropped2/train/real/real_00312.png
+1,0,[0.57494205 0.42505792],/home/ubuntu/data/project_data/cropped2/train/real/real_00313.png
+1,0,[0.58953995 0.41046005],/home/ubuntu/data/project_data/cropped2/train/real/real_00314.png
+1,0,[0.5619177  0.43808222],/home/ubuntu/data/project_data/cropped2/train/real/real_00315.png
+1,0,[0.5870018  0.41299817],/home/ubuntu/data/project_data/cropped2/train/real/real_00316.png
+1,0,[0.58503574 0.41496426],/home/ubuntu/data/project_data/cropped2/train/real/real_00317.png
+1,0,[0.5756731 0.4243269],/home/ubuntu/data/project_data/cropped2/train/real/real_00318.png
+1,0,[0.5587639  0.44123608],/home/ubuntu/data/project_data/cropped2/train/real/real_00320.png
+1,0,[0.5756467 0.4243533],/home/ubuntu/data/project_data/cropped2/train/real/real_00321.png
+1,0,[0.5829979  0.41700208],/home/ubuntu/data/project_data/cropped2/train/real/real_00322.png
+1,0,[0.5804781  0.41952196],/home/ubuntu/data/project_data/cropped2/train/real/real_00323.png
+1,0,[0.5787573  0.42124268],/home/ubuntu/data/project_data/cropped2/train/real/real_00324.png
+1,0,[0.5813076 0.4186924],/home/ubuntu/data/project_data/cropped2/train/real/real_00325.png
+1,0,[0.5697644  0.43023556],/home/ubuntu/data/project_data/cropped2/train/real/real_00326.png
+1,0,[0.5660412  0.43395886],/home/ubuntu/data/project_data/cropped2/train/real/real_00327.png
+1,0,[0.5619416  0.43805835],/home/ubuntu/data/project_data/cropped2/train/real/real_00328.png
+1,0,[0.596882   0.40311798],/home/ubuntu/data/project_data/cropped2/train/real/real_00329.png
+1,0,[0.5728693 0.4271307],/home/ubuntu/data/project_data/cropped2/train/real/real_00330.png
+1,0,[0.5876327  0.41236728],/home/ubuntu/data/project_data/cropped2/train/real/real_00331.png
+1,0,[0.56813425 0.4318658 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00332.png
+1,0,[0.57019746 0.42980257],/home/ubuntu/data/project_data/cropped2/train/real/real_00333.png
+1,0,[0.58818126 0.4118187 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00334.png
+1,0,[0.5797875  0.42021248],/home/ubuntu/data/project_data/cropped2/train/real/real_00335.png
+1,0,[0.5810019  0.41899812],/home/ubuntu/data/project_data/cropped2/train/real/real_00336.png
+1,0,[0.59290653 0.40709347],/home/ubuntu/data/project_data/cropped2/train/real/real_00337.png
+1,0,[0.59290993 0.4070901 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00339.png
+1,0,[0.58627456 0.41372535],/home/ubuntu/data/project_data/cropped2/train/real/real_00340.png
+1,0,[0.58031124 0.41968873],/home/ubuntu/data/project_data/cropped2/train/real/real_00341.png
+1,0,[0.5803444  0.41965565],/home/ubuntu/data/project_data/cropped2/train/real/real_00342.png
+1,0,[0.5877401  0.41225982],/home/ubuntu/data/project_data/cropped2/train/real/real_00343.png
+1,0,[0.58647406 0.413526  ],/home/ubuntu/data/project_data/cropped2/train/real/real_00344.png
+1,0,[0.58029735 0.4197026 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00345.png
+1,0,[0.577061   0.42293894],/home/ubuntu/data/project_data/cropped2/train/real/real_00346.png
+1,0,[0.5852472  0.41475278],/home/ubuntu/data/project_data/cropped2/train/real/real_00347.png
+1,0,[0.5713178  0.42868224],/home/ubuntu/data/project_data/cropped2/train/real/real_00348.png
+1,0,[0.581055   0.41894504],/home/ubuntu/data/project_data/cropped2/train/real/real_00349.png
+1,0,[0.58105016 0.41894993],/home/ubuntu/data/project_data/cropped2/train/real/real_00350.png
+1,0,[0.5832731  0.41672692],/home/ubuntu/data/project_data/cropped2/train/real/real_00351.png
+1,0,[0.5804472 0.4195528],/home/ubuntu/data/project_data/cropped2/train/real/real_00352.png
+1,0,[0.57019913 0.42980084],/home/ubuntu/data/project_data/cropped2/train/real/real_00353.png
+1,0,[0.5746253  0.42537472],/home/ubuntu/data/project_data/cropped2/train/real/real_00354.png
+1,0,[0.5823272  0.41767284],/home/ubuntu/data/project_data/cropped2/train/real/real_00355.png
+1,0,[0.5794063 0.4205937],/home/ubuntu/data/project_data/cropped2/train/real/real_00356.png
+1,0,[0.57700706 0.4229929 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00357.png
+1,0,[0.5787864  0.42121363],/home/ubuntu/data/project_data/cropped2/train/real/real_00358.png
+1,0,[0.57195437 0.42804566],/home/ubuntu/data/project_data/cropped2/train/real/real_00360.png
+1,0,[0.5810298 0.4189702],/home/ubuntu/data/project_data/cropped2/train/real/real_00361.png
+1,0,[0.58405507 0.41594496],/home/ubuntu/data/project_data/cropped2/train/real/real_00363.png
+1,0,[0.56970644 0.43029353],/home/ubuntu/data/project_data/cropped2/train/real/real_00364.png
+1,0,[0.5905084  0.40949163],/home/ubuntu/data/project_data/cropped2/train/real/real_00365.png
+1,0,[0.574208   0.42579195],/home/ubuntu/data/project_data/cropped2/train/real/real_00366.png
+1,0,[0.5875637  0.41243628],/home/ubuntu/data/project_data/cropped2/train/real/real_00367.png
+1,0,[0.57967466 0.4203253 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00368.png
+1,0,[0.5911608  0.40883923],/home/ubuntu/data/project_data/cropped2/train/real/real_00370.png
+1,0,[0.5807991 0.4192009],/home/ubuntu/data/project_data/cropped2/train/real/real_00371.png
+1,0,[0.57157296 0.4284271 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00372.png
+1,0,[0.56946474 0.43053526],/home/ubuntu/data/project_data/cropped2/train/real/real_00373.png
+1,0,[0.58732253 0.41267744],/home/ubuntu/data/project_data/cropped2/train/real/real_00375.png
+1,0,[0.57785106 0.4221489 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00376.png
+1,0,[0.5725018  0.42749822],/home/ubuntu/data/project_data/cropped2/train/real/real_00377.png
+1,0,[0.56665826 0.4333418 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00378.png
+1,0,[0.57650733 0.42349264],/home/ubuntu/data/project_data/cropped2/train/real/real_00379.png
+1,0,[0.58729845 0.41270152],/home/ubuntu/data/project_data/cropped2/train/real/real_00380.png
+1,0,[0.5887917  0.41120818],/home/ubuntu/data/project_data/cropped2/train/real/real_00381.png
+1,0,[0.5679445  0.43205544],/home/ubuntu/data/project_data/cropped2/train/real/real_00382.png
+1,0,[0.56805044 0.43194953],/home/ubuntu/data/project_data/cropped2/train/real/real_00383.png
+1,0,[0.59110874 0.40889126],/home/ubuntu/data/project_data/cropped2/train/real/real_00384.png
+1,0,[0.5926852 0.4073148],/home/ubuntu/data/project_data/cropped2/train/real/real_00385.png
+1,0,[0.57821566 0.4217843 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00386.png
+1,0,[0.57500213 0.42499793],/home/ubuntu/data/project_data/cropped2/train/real/real_00387.png
+1,0,[0.5899606  0.41003948],/home/ubuntu/data/project_data/cropped2/train/real/real_00388.png
+1,0,[0.57365996 0.42634   ],/home/ubuntu/data/project_data/cropped2/train/real/real_00390.png
+1,0,[0.5877229  0.41227707],/home/ubuntu/data/project_data/cropped2/train/real/real_00391.png
+1,0,[0.57734585 0.42265418],/home/ubuntu/data/project_data/cropped2/train/real/real_00392.png
+1,0,[0.5861197 0.4138803],/home/ubuntu/data/project_data/cropped2/train/real/real_00393.png
+1,0,[0.57581264 0.42418733],/home/ubuntu/data/project_data/cropped2/train/real/real_00394.png
+1,0,[0.5833713  0.41662875],/home/ubuntu/data/project_data/cropped2/train/real/real_00395.png
+1,0,[0.5817557 0.4182443],/home/ubuntu/data/project_data/cropped2/train/real/real_00396.png
+1,0,[0.5847603  0.41523972],/home/ubuntu/data/project_data/cropped2/train/real/real_00397.png
+1,0,[0.58128226 0.41871774],/home/ubuntu/data/project_data/cropped2/train/real/real_00398.png
+1,0,[0.59047246 0.4095275 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00400.png
+1,0,[0.5894067  0.41059327],/home/ubuntu/data/project_data/cropped2/train/real/real_00401.png
+1,0,[0.56370586 0.4362942 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00402.png
+1,0,[0.603614   0.39638603],/home/ubuntu/data/project_data/cropped2/train/real/real_00403.png
+1,0,[0.57572305 0.424277  ],/home/ubuntu/data/project_data/cropped2/train/real/real_00404.png
+1,0,[0.5707075 0.4292925],/home/ubuntu/data/project_data/cropped2/train/real/real_00405.png
+1,0,[0.56773394 0.43226606],/home/ubuntu/data/project_data/cropped2/train/real/real_00406.png
+1,0,[0.5722396  0.42776036],/home/ubuntu/data/project_data/cropped2/train/real/real_00407.png
+1,0,[0.5831841  0.41681588],/home/ubuntu/data/project_data/cropped2/train/real/real_00409.png
+1,0,[0.581914   0.41808602],/home/ubuntu/data/project_data/cropped2/train/real/real_00410.png
+1,0,[0.58545625 0.41454375],/home/ubuntu/data/project_data/cropped2/train/real/real_00411.png
+1,0,[0.5751207 0.4248793],/home/ubuntu/data/project_data/cropped2/train/real/real_00412.png
+1,0,[0.5715924  0.42840764],/home/ubuntu/data/project_data/cropped2/train/real/real_00413.png
+1,0,[0.56116295 0.43883708],/home/ubuntu/data/project_data/cropped2/train/real/real_00414.png
+1,0,[0.57464635 0.42535368],/home/ubuntu/data/project_data/cropped2/train/real/real_00415.png
+1,0,[0.5870122 0.4129878],/home/ubuntu/data/project_data/cropped2/train/real/real_00416.png
+1,0,[0.57386917 0.42613086],/home/ubuntu/data/project_data/cropped2/train/real/real_00417.png
+1,0,[0.5799433  0.42005676],/home/ubuntu/data/project_data/cropped2/train/real/real_00418.png
+1,0,[0.57563597 0.42436403],/home/ubuntu/data/project_data/cropped2/train/real/real_00419.png
+1,0,[0.5745488  0.42545122],/home/ubuntu/data/project_data/cropped2/train/real/real_00420.png
+1,0,[0.58133745 0.4186625 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00421.png
+1,0,[0.57384586 0.42615414],/home/ubuntu/data/project_data/cropped2/train/real/real_00422.png
+1,0,[0.57749605 0.42250398],/home/ubuntu/data/project_data/cropped2/train/real/real_00424.png
+1,0,[0.58113396 0.4188661 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00425.png
+1,0,[0.5793826  0.42061746],/home/ubuntu/data/project_data/cropped2/train/real/real_00426.png
+1,0,[0.583911 0.416089],/home/ubuntu/data/project_data/cropped2/train/real/real_00427.png
+1,0,[0.5773304 0.4226696],/home/ubuntu/data/project_data/cropped2/train/real/real_00429.png
+1,0,[0.566503 0.433497],/home/ubuntu/data/project_data/cropped2/train/real/real_00431.png
+1,0,[0.5845524  0.41544756],/home/ubuntu/data/project_data/cropped2/train/real/real_00432.png
+1,0,[0.5719098 0.4280902],/home/ubuntu/data/project_data/cropped2/train/real/real_00433.png
+1,0,[0.5824925  0.41750753],/home/ubuntu/data/project_data/cropped2/train/real/real_00434.png
+1,0,[0.573677   0.42632303],/home/ubuntu/data/project_data/cropped2/train/real/real_00436.png
+1,0,[0.57066053 0.4293395 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00437.png
+1,0,[0.5786202 0.4213798],/home/ubuntu/data/project_data/cropped2/train/real/real_00438.png
+1,0,[0.57810557 0.4218944 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00439.png
+1,0,[0.5754044 0.4245956],/home/ubuntu/data/project_data/cropped2/train/real/real_00440.png
+1,0,[0.5743739  0.42562613],/home/ubuntu/data/project_data/cropped2/train/real/real_00441.png
+1,0,[0.58688986 0.41311017],/home/ubuntu/data/project_data/cropped2/train/real/real_00442.png
+1,0,[0.5846329 0.4153671],/home/ubuntu/data/project_data/cropped2/train/real/real_00444.png
+1,0,[0.5852826  0.41471732],/home/ubuntu/data/project_data/cropped2/train/real/real_00445.png
+1,0,[0.5636161  0.43638393],/home/ubuntu/data/project_data/cropped2/train/real/real_00446.png
+1,0,[0.57617664 0.4238233 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00447.png
+1,0,[0.5743003 0.4256997],/home/ubuntu/data/project_data/cropped2/train/real/real_00448.png
+1,0,[0.57685685 0.42314315],/home/ubuntu/data/project_data/cropped2/train/real/real_00449.png
+1,0,[0.57233137 0.4276686 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00450.png
+1,0,[0.5802301  0.41976985],/home/ubuntu/data/project_data/cropped2/train/real/real_00451.png
+1,0,[0.58101535 0.4189847 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00452.png
+1,0,[0.56935376 0.43064627],/home/ubuntu/data/project_data/cropped2/train/real/real_00453.png
+1,0,[0.56900764 0.4309924 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00454.png
+1,0,[0.565569   0.43443102],/home/ubuntu/data/project_data/cropped2/train/real/real_00456.png
+1,0,[0.5690756  0.43092442],/home/ubuntu/data/project_data/cropped2/train/real/real_00457.png
+1,0,[0.57482135 0.42517868],/home/ubuntu/data/project_data/cropped2/train/real/real_00458.png
+1,0,[0.5894846 0.4105154],/home/ubuntu/data/project_data/cropped2/train/real/real_00459.png
+1,0,[0.5775302  0.42246974],/home/ubuntu/data/project_data/cropped2/train/real/real_00460.png
+1,0,[0.58910704 0.41089296],/home/ubuntu/data/project_data/cropped2/train/real/real_00461.png
+1,0,[0.5810855  0.41891447],/home/ubuntu/data/project_data/cropped2/train/real/real_00462.png
+1,0,[0.5782674  0.42173263],/home/ubuntu/data/project_data/cropped2/train/real/real_00463.png
+1,0,[0.5760551  0.42394486],/home/ubuntu/data/project_data/cropped2/train/real/real_00464.png
+1,0,[0.5781431 0.4218569],/home/ubuntu/data/project_data/cropped2/train/real/real_00465.png
+1,0,[0.5727203  0.42727974],/home/ubuntu/data/project_data/cropped2/train/real/real_00466.png
+1,0,[0.58090574 0.4190942 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00468.png
+1,0,[0.5826926  0.41730738],/home/ubuntu/data/project_data/cropped2/train/real/real_00469.png
+1,0,[0.5689572  0.43104276],/home/ubuntu/data/project_data/cropped2/train/real/real_00470.png
+1,0,[0.5850957  0.41490427],/home/ubuntu/data/project_data/cropped2/train/real/real_00471.png
+1,0,[0.57725745 0.42274258],/home/ubuntu/data/project_data/cropped2/train/real/real_00472.png
+1,0,[0.5684804  0.43151957],/home/ubuntu/data/project_data/cropped2/train/real/real_00473.png
+1,0,[0.57337177 0.42662826],/home/ubuntu/data/project_data/cropped2/train/real/real_00475.png
+1,0,[0.5765999  0.42340007],/home/ubuntu/data/project_data/cropped2/train/real/real_00476.png
+1,0,[0.57514393 0.42485604],/home/ubuntu/data/project_data/cropped2/train/real/real_00477.png
+1,0,[0.5895735 0.4104265],/home/ubuntu/data/project_data/cropped2/train/real/real_00478.png
+1,0,[0.58631235 0.4136876 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00479.png
+1,0,[0.5749809  0.42501903],/home/ubuntu/data/project_data/cropped2/train/real/real_00480.png
+1,0,[0.5727621  0.42723793],/home/ubuntu/data/project_data/cropped2/train/real/real_00481.png
+1,0,[0.58708215 0.41291782],/home/ubuntu/data/project_data/cropped2/train/real/real_00482.png
+1,0,[0.58712804 0.41287193],/home/ubuntu/data/project_data/cropped2/train/real/real_00483.png
+1,0,[0.5732507  0.42674935],/home/ubuntu/data/project_data/cropped2/train/real/real_00484.png
+1,0,[0.57166755 0.42833245],/home/ubuntu/data/project_data/cropped2/train/real/real_00485.png
+1,0,[0.5773939  0.42260608],/home/ubuntu/data/project_data/cropped2/train/real/real_00486.png
+1,0,[0.57904506 0.42095494],/home/ubuntu/data/project_data/cropped2/train/real/real_00487.png
+1,0,[0.57418466 0.4258153 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00488.png
+1,0,[0.58651406 0.41348588],/home/ubuntu/data/project_data/cropped2/train/real/real_00489.png
+1,0,[0.58062255 0.41937748],/home/ubuntu/data/project_data/cropped2/train/real/real_00490.png
+1,0,[0.5894667 0.4105333],/home/ubuntu/data/project_data/cropped2/train/real/real_00491.png
+1,0,[0.56716657 0.43283346],/home/ubuntu/data/project_data/cropped2/train/real/real_00492.png
+1,0,[0.59763885 0.40236112],/home/ubuntu/data/project_data/cropped2/train/real/real_00494.png
+1,0,[0.5707076  0.42929232],/home/ubuntu/data/project_data/cropped2/train/real/real_00495.png
+1,0,[0.5875576  0.41244242],/home/ubuntu/data/project_data/cropped2/train/real/real_00496.png
+1,0,[0.556945   0.44305497],/home/ubuntu/data/project_data/cropped2/train/real/real_00497.png
+1,0,[0.5704827  0.42951733],/home/ubuntu/data/project_data/cropped2/train/real/real_00498.png
+1,0,[0.57713234 0.42286766],/home/ubuntu/data/project_data/cropped2/train/real/real_00499.png
+1,0,[0.5690909  0.43090913],/home/ubuntu/data/project_data/cropped2/train/real/real_00500.png
+1,0,[0.59021544 0.40978453],/home/ubuntu/data/project_data/cropped2/train/real/real_00501.png
+1,0,[0.56346965 0.4365303 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00502.png
+1,0,[0.5851639  0.41483614],/home/ubuntu/data/project_data/cropped2/train/real/real_00503.png
+1,0,[0.5864105  0.41358957],/home/ubuntu/data/project_data/cropped2/train/real/real_00504.png
+1,0,[0.5746476 0.4253524],/home/ubuntu/data/project_data/cropped2/train/real/real_00505.png
+1,0,[0.5632065  0.43679354],/home/ubuntu/data/project_data/cropped2/train/real/real_00506.png
+1,0,[0.57322186 0.4267782 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00507.png
+1,0,[0.5958747  0.40412527],/home/ubuntu/data/project_data/cropped2/train/real/real_00508.png
+1,0,[0.5649859  0.43501413],/home/ubuntu/data/project_data/cropped2/train/real/real_00509.png
+1,0,[0.57715476 0.42284524],/home/ubuntu/data/project_data/cropped2/train/real/real_00511.png
+1,0,[0.5612888  0.43871126],/home/ubuntu/data/project_data/cropped2/train/real/real_00512.png
+1,0,[0.57442033 0.4255797 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00514.png
+1,0,[0.58307964 0.4169204 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00515.png
+1,0,[0.58146816 0.41853184],/home/ubuntu/data/project_data/cropped2/train/real/real_00516.png
+1,0,[0.56257087 0.43742907],/home/ubuntu/data/project_data/cropped2/train/real/real_00517.png
+1,0,[0.57831603 0.421684  ],/home/ubuntu/data/project_data/cropped2/train/real/real_00518.png
+1,0,[0.57203674 0.42796323],/home/ubuntu/data/project_data/cropped2/train/real/real_00519.png
+1,0,[0.56769705 0.43230292],/home/ubuntu/data/project_data/cropped2/train/real/real_00520.png
+1,0,[0.5730652 0.4269348],/home/ubuntu/data/project_data/cropped2/train/real/real_00521.png
+1,0,[0.56145245 0.43854758],/home/ubuntu/data/project_data/cropped2/train/real/real_00522.png
+1,0,[0.58398604 0.41601396],/home/ubuntu/data/project_data/cropped2/train/real/real_00523.png
+1,0,[0.5813664  0.41863352],/home/ubuntu/data/project_data/cropped2/train/real/real_00524.png
+1,0,[0.5708034  0.42919663],/home/ubuntu/data/project_data/cropped2/train/real/real_00525.png
+1,0,[0.56784284 0.4321572 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00526.png
+1,0,[0.5730638 0.4269362],/home/ubuntu/data/project_data/cropped2/train/real/real_00527.png
+1,0,[0.56360644 0.43639356],/home/ubuntu/data/project_data/cropped2/train/real/real_00528.png
+1,0,[0.56241137 0.43758863],/home/ubuntu/data/project_data/cropped2/train/real/real_00529.png
+1,0,[0.5705951  0.42940494],/home/ubuntu/data/project_data/cropped2/train/real/real_00530.png
+1,0,[0.58390313 0.4160969 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00531.png
+1,0,[0.58418864 0.4158114 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00532.png
+1,0,[0.5700043  0.42999575],/home/ubuntu/data/project_data/cropped2/train/real/real_00533.png
+1,0,[0.5940214 0.4059786],/home/ubuntu/data/project_data/cropped2/train/real/real_00534.png
+1,0,[0.5777838 0.4222162],/home/ubuntu/data/project_data/cropped2/train/real/real_00535.png
+1,0,[0.5791488  0.42085114],/home/ubuntu/data/project_data/cropped2/train/real/real_00536.png
+1,0,[0.5876993  0.41230074],/home/ubuntu/data/project_data/cropped2/train/real/real_00537.png
+1,0,[0.5782688 0.4217312],/home/ubuntu/data/project_data/cropped2/train/real/real_00538.png
+1,0,[0.5805367  0.41946322],/home/ubuntu/data/project_data/cropped2/train/real/real_00539.png
+1,0,[0.58091426 0.41908574],/home/ubuntu/data/project_data/cropped2/train/real/real_00540.png
+1,0,[0.5727061  0.42729396],/home/ubuntu/data/project_data/cropped2/train/real/real_00541.png
+1,0,[0.5872602  0.41273975],/home/ubuntu/data/project_data/cropped2/train/real/real_00542.png
+1,0,[0.5806913  0.41930875],/home/ubuntu/data/project_data/cropped2/train/real/real_00543.png
+1,0,[0.55989945 0.4401006 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00544.png
+1,0,[0.58754617 0.41245386],/home/ubuntu/data/project_data/cropped2/train/real/real_00545.png
+1,0,[0.57390875 0.42609128],/home/ubuntu/data/project_data/cropped2/train/real/real_00546.png
+1,0,[0.58538365 0.41461635],/home/ubuntu/data/project_data/cropped2/train/real/real_00547.png
+1,0,[0.574226   0.42577395],/home/ubuntu/data/project_data/cropped2/train/real/real_00548.png
+1,0,[0.57933944 0.4206606 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00549.png
+1,0,[0.5746303  0.42536968],/home/ubuntu/data/project_data/cropped2/train/real/real_00550.png
+1,0,[0.5643653 0.4356346],/home/ubuntu/data/project_data/cropped2/train/real/real_00551.png
+1,0,[0.5813298  0.41867018],/home/ubuntu/data/project_data/cropped2/train/real/real_00552.png
+1,0,[0.5724844 0.4275156],/home/ubuntu/data/project_data/cropped2/train/real/real_00553.png
+1,0,[0.57398474 0.4260153 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00554.png
+1,0,[0.57547265 0.42452735],/home/ubuntu/data/project_data/cropped2/train/real/real_00556.png
+1,0,[0.59115696 0.40884304],/home/ubuntu/data/project_data/cropped2/train/real/real_00557.png
+1,0,[0.5784378  0.42156217],/home/ubuntu/data/project_data/cropped2/train/real/real_00558.png
+1,0,[0.57414174 0.4258582 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00559.png
+1,0,[0.5797515 0.4202485],/home/ubuntu/data/project_data/cropped2/train/real/real_00560.png
+1,0,[0.5866057  0.41339427],/home/ubuntu/data/project_data/cropped2/train/real/real_00561.png
+1,0,[0.5770611 0.4229389],/home/ubuntu/data/project_data/cropped2/train/real/real_00562.png
+1,0,[0.5798491  0.42015085],/home/ubuntu/data/project_data/cropped2/train/real/real_00563.png
+1,0,[0.58086795 0.41913205],/home/ubuntu/data/project_data/cropped2/train/real/real_00564.png
+1,0,[0.5642105  0.43578953],/home/ubuntu/data/project_data/cropped2/train/real/real_00565.png
+1,0,[0.5847214  0.41527864],/home/ubuntu/data/project_data/cropped2/train/real/real_00566.png
+1,0,[0.5731379  0.42686212],/home/ubuntu/data/project_data/cropped2/train/real/real_00567.png
+1,0,[0.58094954 0.41905048],/home/ubuntu/data/project_data/cropped2/train/real/real_00568.png
+1,0,[0.5790874  0.42091265],/home/ubuntu/data/project_data/cropped2/train/real/real_00569.png
+1,0,[0.5737895  0.42621058],/home/ubuntu/data/project_data/cropped2/train/real/real_00570.png
+1,0,[0.58260363 0.41739637],/home/ubuntu/data/project_data/cropped2/train/real/real_00571.png
+1,0,[0.57378787 0.42621216],/home/ubuntu/data/project_data/cropped2/train/real/real_00572.png
+1,0,[0.5960098  0.40399024],/home/ubuntu/data/project_data/cropped2/train/real/real_00573.png
+1,0,[0.56264657 0.43735343],/home/ubuntu/data/project_data/cropped2/train/real/real_00574.png
+1,0,[0.59060913 0.40939084],/home/ubuntu/data/project_data/cropped2/train/real/real_00575.png
+1,0,[0.5627309  0.43726912],/home/ubuntu/data/project_data/cropped2/train/real/real_00576.png
+1,0,[0.5767906  0.42320946],/home/ubuntu/data/project_data/cropped2/train/real/real_00577.png
+1,0,[0.56967556 0.43032447],/home/ubuntu/data/project_data/cropped2/train/real/real_00578.png
+1,0,[0.5689332  0.43106687],/home/ubuntu/data/project_data/cropped2/train/real/real_00579.png
+1,0,[0.56499434 0.43500566],/home/ubuntu/data/project_data/cropped2/train/real/real_00580.png
+1,0,[0.5837978  0.41620216],/home/ubuntu/data/project_data/cropped2/train/real/real_00581.png
+1,0,[0.58018464 0.4198153 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00582.png
+1,0,[0.579931 0.420069],/home/ubuntu/data/project_data/cropped2/train/real/real_00583.png
+1,0,[0.58896345 0.41103646],/home/ubuntu/data/project_data/cropped2/train/real/real_00584.png
+1,0,[0.6027598  0.39724016],/home/ubuntu/data/project_data/cropped2/train/real/real_00585.png
+1,0,[0.5855065  0.41449356],/home/ubuntu/data/project_data/cropped2/train/real/real_00586.png
+1,0,[0.5909946 0.4090054],/home/ubuntu/data/project_data/cropped2/train/real/real_00588.png
+1,0,[0.5737849  0.42621514],/home/ubuntu/data/project_data/cropped2/train/real/real_00589.png
+1,0,[0.57288325 0.42711672],/home/ubuntu/data/project_data/cropped2/train/real/real_00590.png
+1,0,[0.5845833  0.41541666],/home/ubuntu/data/project_data/cropped2/train/real/real_00591.png
+1,0,[0.57416856 0.4258314 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00592.png
+1,0,[0.5788741  0.42112586],/home/ubuntu/data/project_data/cropped2/train/real/real_00594.png
+1,0,[0.5792451  0.42075488],/home/ubuntu/data/project_data/cropped2/train/real/real_00595.png
+1,0,[0.5886713 0.4113287],/home/ubuntu/data/project_data/cropped2/train/real/real_00596.png
+1,0,[0.5786718  0.42132816],/home/ubuntu/data/project_data/cropped2/train/real/real_00597.png
+1,0,[0.56535673 0.4346433 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00598.png
+1,0,[0.5721196 0.4278804],/home/ubuntu/data/project_data/cropped2/train/real/real_00599.png
+1,0,[0.59616584 0.4038342 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00600.png
+1,0,[0.573002   0.42699802],/home/ubuntu/data/project_data/cropped2/train/real/real_00601.png
+1,0,[0.583255 0.416745],/home/ubuntu/data/project_data/cropped2/train/real/real_00603.png
+1,0,[0.5827356  0.41726437],/home/ubuntu/data/project_data/cropped2/train/real/real_00604.png
+1,0,[0.59240526 0.40759477],/home/ubuntu/data/project_data/cropped2/train/real/real_00605.png
+1,0,[0.57660615 0.4233939 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00606.png
+1,0,[0.57004267 0.42995736],/home/ubuntu/data/project_data/cropped2/train/real/real_00609.png
+1,0,[0.5831988  0.41680118],/home/ubuntu/data/project_data/cropped2/train/real/real_00610.png
+1,0,[0.5798884  0.42011163],/home/ubuntu/data/project_data/cropped2/train/real/real_00611.png
+1,0,[0.5737461  0.42625389],/home/ubuntu/data/project_data/cropped2/train/real/real_00612.png
+1,0,[0.58042943 0.41957048],/home/ubuntu/data/project_data/cropped2/train/real/real_00614.png
+1,0,[0.5803417  0.41965833],/home/ubuntu/data/project_data/cropped2/train/real/real_00615.png
+1,0,[0.5766303  0.42336968],/home/ubuntu/data/project_data/cropped2/train/real/real_00616.png
+1,0,[0.56001365 0.43998635],/home/ubuntu/data/project_data/cropped2/train/real/real_00617.png
+1,0,[0.56545514 0.43454483],/home/ubuntu/data/project_data/cropped2/train/real/real_00618.png
+1,0,[0.5607491 0.4392509],/home/ubuntu/data/project_data/cropped2/train/real/real_00619.png
+1,0,[0.5925825  0.40741742],/home/ubuntu/data/project_data/cropped2/train/real/real_00620.png
+1,0,[0.5895246  0.41047534],/home/ubuntu/data/project_data/cropped2/train/real/real_00621.png
+1,0,[0.5796355  0.42036447],/home/ubuntu/data/project_data/cropped2/train/real/real_00622.png
+1,0,[0.5855961 0.4144039],/home/ubuntu/data/project_data/cropped2/train/real/real_00624.png
+1,0,[0.57045776 0.42954224],/home/ubuntu/data/project_data/cropped2/train/real/real_00625.png
+1,0,[0.5928464 0.4071536],/home/ubuntu/data/project_data/cropped2/train/real/real_00626.png
+1,0,[0.58356935 0.41643065],/home/ubuntu/data/project_data/cropped2/train/real/real_00627.png
+1,0,[0.5700557  0.42994434],/home/ubuntu/data/project_data/cropped2/train/real/real_00629.png
+1,0,[0.5700659  0.42993408],/home/ubuntu/data/project_data/cropped2/train/real/real_00630.png
+1,0,[0.58357966 0.41642034],/home/ubuntu/data/project_data/cropped2/train/real/real_00631.png
+1,0,[0.58395964 0.41604036],/home/ubuntu/data/project_data/cropped2/train/real/real_00632.png
+1,0,[0.59389794 0.40610203],/home/ubuntu/data/project_data/cropped2/train/real/real_00633.png
+1,0,[0.58877605 0.41122392],/home/ubuntu/data/project_data/cropped2/train/real/real_00634.png
+1,0,[0.5773155  0.42268446],/home/ubuntu/data/project_data/cropped2/train/real/real_00635.png
+1,0,[0.57193804 0.428062  ],/home/ubuntu/data/project_data/cropped2/train/real/real_00636.png
+1,0,[0.5598687  0.44013134],/home/ubuntu/data/project_data/cropped2/train/real/real_00637.png
+1,0,[0.58514965 0.4148503 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00638.png
+1,0,[0.5735424  0.42645755],/home/ubuntu/data/project_data/cropped2/train/real/real_00639.png
+1,0,[0.5691986  0.43080136],/home/ubuntu/data/project_data/cropped2/train/real/real_00640.png
+1,0,[0.56902385 0.4309761 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00641.png
+1,0,[0.56173885 0.43826112],/home/ubuntu/data/project_data/cropped2/train/real/real_00642.png
+1,0,[0.58076555 0.41923448],/home/ubuntu/data/project_data/cropped2/train/real/real_00643.png
+1,0,[0.585144 0.414856],/home/ubuntu/data/project_data/cropped2/train/real/real_00644.png
+1,0,[0.5657967 0.4342033],/home/ubuntu/data/project_data/cropped2/train/real/real_00645.png
+1,0,[0.56232667 0.4376733 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00646.png
+1,0,[0.57249945 0.42750052],/home/ubuntu/data/project_data/cropped2/train/real/real_00647.png
+1,0,[0.5886802 0.4113198],/home/ubuntu/data/project_data/cropped2/train/real/real_00648.png
+1,0,[0.56188726 0.4381128 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00649.png
+1,0,[0.5766583 0.4233417],/home/ubuntu/data/project_data/cropped2/train/real/real_00650.png
+1,0,[0.563459   0.43654102],/home/ubuntu/data/project_data/cropped2/train/real/real_00651.png
+1,0,[0.574696   0.42530403],/home/ubuntu/data/project_data/cropped2/train/real/real_00652.png
+1,0,[0.5866394 0.4133606],/home/ubuntu/data/project_data/cropped2/train/real/real_00653.png
+1,0,[0.5729142  0.42708585],/home/ubuntu/data/project_data/cropped2/train/real/real_00654.png
+1,0,[0.57006884 0.42993116],/home/ubuntu/data/project_data/cropped2/train/real/real_00656.png
+1,0,[0.58005136 0.4199486 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00657.png
+1,0,[0.5748518 0.4251482],/home/ubuntu/data/project_data/cropped2/train/real/real_00658.png
+1,0,[0.5858133 0.4141867],/home/ubuntu/data/project_data/cropped2/train/real/real_00659.png
+1,0,[0.57167447 0.4283255 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00660.png
+1,0,[0.5891543  0.41084573],/home/ubuntu/data/project_data/cropped2/train/real/real_00661.png
+1,0,[0.58318824 0.41681173],/home/ubuntu/data/project_data/cropped2/train/real/real_00662.png
+1,0,[0.5646793  0.43532073],/home/ubuntu/data/project_data/cropped2/train/real/real_00663.png
+1,0,[0.5840343  0.41596565],/home/ubuntu/data/project_data/cropped2/train/real/real_00664.png
+1,0,[0.5758943  0.42410564],/home/ubuntu/data/project_data/cropped2/train/real/real_00665.png
+1,0,[0.56979406 0.43020597],/home/ubuntu/data/project_data/cropped2/train/real/real_00666.png
+1,0,[0.57536715 0.42463285],/home/ubuntu/data/project_data/cropped2/train/real/real_00667.png
+1,0,[0.5812974 0.4187026],/home/ubuntu/data/project_data/cropped2/train/real/real_00668.png
+1,0,[0.5866472  0.41335276],/home/ubuntu/data/project_data/cropped2/train/real/real_00669.png
+1,0,[0.56961507 0.43038493],/home/ubuntu/data/project_data/cropped2/train/real/real_00670.png
+1,0,[0.5779005  0.42209938],/home/ubuntu/data/project_data/cropped2/train/real/real_00672.png
+1,0,[0.5814607  0.41853932],/home/ubuntu/data/project_data/cropped2/train/real/real_00673.png
+1,0,[0.5743726  0.42562744],/home/ubuntu/data/project_data/cropped2/train/real/real_00675.png
+1,0,[0.5717444 0.4282556],/home/ubuntu/data/project_data/cropped2/train/real/real_00676.png
+1,0,[0.57325923 0.42674074],/home/ubuntu/data/project_data/cropped2/train/real/real_00677.png
+1,0,[0.5774413 0.4225587],/home/ubuntu/data/project_data/cropped2/train/real/real_00678.png
+1,0,[0.569199   0.43080103],/home/ubuntu/data/project_data/cropped2/train/real/real_00679.png
+1,0,[0.5775149  0.42248517],/home/ubuntu/data/project_data/cropped2/train/real/real_00680.png
+1,0,[0.578626   0.42137402],/home/ubuntu/data/project_data/cropped2/train/real/real_00681.png
+1,0,[0.591171   0.40882897],/home/ubuntu/data/project_data/cropped2/train/real/real_00682.png
+1,0,[0.57256013 0.42743984],/home/ubuntu/data/project_data/cropped2/train/real/real_00683.png
+1,0,[0.5858105  0.41418952],/home/ubuntu/data/project_data/cropped2/train/real/real_00684.png
+1,0,[0.5614614  0.43853864],/home/ubuntu/data/project_data/cropped2/train/real/real_00685.png
+1,0,[0.5875389  0.41246104],/home/ubuntu/data/project_data/cropped2/train/real/real_00686.png
+1,0,[0.5857354  0.41426462],/home/ubuntu/data/project_data/cropped2/train/real/real_00687.png
+1,0,[0.5771087 0.4228913],/home/ubuntu/data/project_data/cropped2/train/real/real_00689.png
+1,0,[0.5729257 0.4270743],/home/ubuntu/data/project_data/cropped2/train/real/real_00690.png
+1,0,[0.5759002  0.42409977],/home/ubuntu/data/project_data/cropped2/train/real/real_00691.png
+1,0,[0.5649593  0.43504068],/home/ubuntu/data/project_data/cropped2/train/real/real_00693.png
+1,0,[0.59597373 0.4040263 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00694.png
+1,0,[0.57887226 0.42112768],/home/ubuntu/data/project_data/cropped2/train/real/real_00695.png
+1,0,[0.5699917  0.43000826],/home/ubuntu/data/project_data/cropped2/train/real/real_00698.png
+1,0,[0.57254905 0.42745093],/home/ubuntu/data/project_data/cropped2/train/real/real_00699.png
+1,0,[0.5729048 0.4270952],/home/ubuntu/data/project_data/cropped2/train/real/real_00700.png
+1,0,[0.57043767 0.4295623 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00701.png
+1,0,[0.5668209  0.43317917],/home/ubuntu/data/project_data/cropped2/train/real/real_00702.png
+1,0,[0.56197476 0.43802524],/home/ubuntu/data/project_data/cropped2/train/real/real_00703.png
+1,0,[0.57769984 0.42230016],/home/ubuntu/data/project_data/cropped2/train/real/real_00707.png
+1,0,[0.5786434  0.42135665],/home/ubuntu/data/project_data/cropped2/train/real/real_00708.png
+1,0,[0.5644409  0.43555906],/home/ubuntu/data/project_data/cropped2/train/real/real_00709.png
+1,0,[0.5809481  0.41905186],/home/ubuntu/data/project_data/cropped2/train/real/real_00710.png
+1,0,[0.5684977  0.43150228],/home/ubuntu/data/project_data/cropped2/train/real/real_00711.png
+1,0,[0.5764891  0.42351094],/home/ubuntu/data/project_data/cropped2/train/real/real_00712.png
+1,0,[0.57002574 0.42997423],/home/ubuntu/data/project_data/cropped2/train/real/real_00713.png
+1,0,[0.5822864 0.4177136],/home/ubuntu/data/project_data/cropped2/train/real/real_00714.png
+1,0,[0.57797706 0.4220229 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00715.png
+1,0,[0.5698432  0.43015686],/home/ubuntu/data/project_data/cropped2/train/real/real_00716.png
+1,0,[0.5705571  0.42944285],/home/ubuntu/data/project_data/cropped2/train/real/real_00717.png
+1,0,[0.5608267 0.4391733],/home/ubuntu/data/project_data/cropped2/train/real/real_00718.png
+1,0,[0.5893901  0.41060987],/home/ubuntu/data/project_data/cropped2/train/real/real_00719.png
+1,0,[0.5696423  0.43035766],/home/ubuntu/data/project_data/cropped2/train/real/real_00720.png
+1,0,[0.564256 0.435744],/home/ubuntu/data/project_data/cropped2/train/real/real_00721.png
+1,0,[0.568645   0.43135497],/home/ubuntu/data/project_data/cropped2/train/real/real_00724.png
+1,0,[0.58512205 0.41487795],/home/ubuntu/data/project_data/cropped2/train/real/real_00725.png
+1,0,[0.5835531 0.4164469],/home/ubuntu/data/project_data/cropped2/train/real/real_00726.png
+1,0,[0.563699   0.43630105],/home/ubuntu/data/project_data/cropped2/train/real/real_00727.png
+1,0,[0.56335723 0.4366427 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00729.png
+1,0,[0.58016664 0.41983336],/home/ubuntu/data/project_data/cropped2/train/real/real_00730.png
+1,0,[0.5713481 0.4286519],/home/ubuntu/data/project_data/cropped2/train/real/real_00731.png
+1,0,[0.5867683  0.41323164],/home/ubuntu/data/project_data/cropped2/train/real/real_00732.png
+1,0,[0.580865  0.4191349],/home/ubuntu/data/project_data/cropped2/train/real/real_00733.png
+1,0,[0.5812852  0.41871482],/home/ubuntu/data/project_data/cropped2/train/real/real_00734.png
+1,0,[0.5738775 0.4261225],/home/ubuntu/data/project_data/cropped2/train/real/real_00735.png
+1,0,[0.57467014 0.4253299 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00736.png
+1,0,[0.5778785  0.42212155],/home/ubuntu/data/project_data/cropped2/train/real/real_00737.png
+1,0,[0.5841484  0.41585165],/home/ubuntu/data/project_data/cropped2/train/real/real_00738.png
+1,0,[0.58160174 0.41839832],/home/ubuntu/data/project_data/cropped2/train/real/real_00739.png
+1,0,[0.57772267 0.42227736],/home/ubuntu/data/project_data/cropped2/train/real/real_00740.png
+1,0,[0.5781223 0.4218777],/home/ubuntu/data/project_data/cropped2/train/real/real_00741.png
+1,0,[0.57165945 0.42834055],/home/ubuntu/data/project_data/cropped2/train/real/real_00742.png
+1,0,[0.5858638  0.41413617],/home/ubuntu/data/project_data/cropped2/train/real/real_00744.png
+1,0,[0.5744174 0.4255826],/home/ubuntu/data/project_data/cropped2/train/real/real_00745.png
+1,0,[0.5709535 0.4290465],/home/ubuntu/data/project_data/cropped2/train/real/real_00746.png
+1,0,[0.5747218 0.4252782],/home/ubuntu/data/project_data/cropped2/train/real/real_00747.png
+1,0,[0.5812542 0.4187458],/home/ubuntu/data/project_data/cropped2/train/real/real_00748.png
+1,0,[0.5674094  0.43259057],/home/ubuntu/data/project_data/cropped2/train/real/real_00749.png
+1,0,[0.56997985 0.43002012],/home/ubuntu/data/project_data/cropped2/train/real/real_00750.png
+1,0,[0.6124458  0.38755423],/home/ubuntu/data/project_data/cropped2/train/real/real_00751.png
+1,0,[0.57645607 0.423544  ],/home/ubuntu/data/project_data/cropped2/train/real/real_00752.png
+1,0,[0.5972191  0.40278086],/home/ubuntu/data/project_data/cropped2/train/real/real_00753.png
+1,0,[0.5844902  0.41550985],/home/ubuntu/data/project_data/cropped2/train/real/real_00754.png
+1,0,[0.5908907  0.40910932],/home/ubuntu/data/project_data/cropped2/train/real/real_00755.png
+1,0,[0.5794721  0.42052785],/home/ubuntu/data/project_data/cropped2/train/real/real_00756.png
+1,0,[0.5614115 0.4385886],/home/ubuntu/data/project_data/cropped2/train/real/real_00757.png
+1,0,[0.5820296 0.4179704],/home/ubuntu/data/project_data/cropped2/train/real/real_00758.png
+1,0,[0.5733956 0.4266044],/home/ubuntu/data/project_data/cropped2/train/real/real_00759.png
+1,0,[0.5719315  0.42806855],/home/ubuntu/data/project_data/cropped2/train/real/real_00760.png
+1,0,[0.5852986  0.41470143],/home/ubuntu/data/project_data/cropped2/train/real/real_00762.png
+1,0,[0.57650506 0.42349485],/home/ubuntu/data/project_data/cropped2/train/real/real_00763.png
+1,0,[0.56094223 0.43905786],/home/ubuntu/data/project_data/cropped2/train/real/real_00765.png
+1,0,[0.57879615 0.42120388],/home/ubuntu/data/project_data/cropped2/train/real/real_00766.png
+1,0,[0.57040244 0.4295975 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00767.png
+1,0,[0.5698939  0.43010613],/home/ubuntu/data/project_data/cropped2/train/real/real_00768.png
+1,0,[0.5697572  0.43024278],/home/ubuntu/data/project_data/cropped2/train/real/real_00769.png
+1,0,[0.5722559  0.42774415],/home/ubuntu/data/project_data/cropped2/train/real/real_00770.png
+1,0,[0.5692007  0.43079934],/home/ubuntu/data/project_data/cropped2/train/real/real_00771.png
+1,0,[0.58427536 0.41572464],/home/ubuntu/data/project_data/cropped2/train/real/real_00772.png
+1,0,[0.5727478  0.42725223],/home/ubuntu/data/project_data/cropped2/train/real/real_00773.png
+1,0,[0.5971287 0.4028713],/home/ubuntu/data/project_data/cropped2/train/real/real_00774.png
+1,0,[0.5759425  0.42405748],/home/ubuntu/data/project_data/cropped2/train/real/real_00775.png
+1,0,[0.5770034  0.42299664],/home/ubuntu/data/project_data/cropped2/train/real/real_00776.png
+1,0,[0.5875669  0.41243315],/home/ubuntu/data/project_data/cropped2/train/real/real_00777.png
+1,0,[0.5808341 0.4191659],/home/ubuntu/data/project_data/cropped2/train/real/real_00778.png
+1,0,[0.5738197  0.42618033],/home/ubuntu/data/project_data/cropped2/train/real/real_00779.png
+1,0,[0.5843251  0.41567487],/home/ubuntu/data/project_data/cropped2/train/real/real_00780.png
+1,0,[0.5899273 0.4100727],/home/ubuntu/data/project_data/cropped2/train/real/real_00781.png
+1,0,[0.5705401  0.42945996],/home/ubuntu/data/project_data/cropped2/train/real/real_00782.png
+1,0,[0.56977594 0.43022412],/home/ubuntu/data/project_data/cropped2/train/real/real_00783.png
+1,0,[0.57751054 0.42248946],/home/ubuntu/data/project_data/cropped2/train/real/real_00784.png
+1,0,[0.58300877 0.41699126],/home/ubuntu/data/project_data/cropped2/train/real/real_00785.png
+1,0,[0.5734903  0.42650968],/home/ubuntu/data/project_data/cropped2/train/real/real_00786.png
+1,0,[0.5825391  0.41746095],/home/ubuntu/data/project_data/cropped2/train/real/real_00787.png
+1,0,[0.5923943  0.40760574],/home/ubuntu/data/project_data/cropped2/train/real/real_00788.png
+1,0,[0.5759634 0.4240366],/home/ubuntu/data/project_data/cropped2/train/real/real_00789.png
+1,0,[0.5724118  0.42758816],/home/ubuntu/data/project_data/cropped2/train/real/real_00790.png
+1,0,[0.576721   0.42327893],/home/ubuntu/data/project_data/cropped2/train/real/real_00791.png
+1,0,[0.5725689 0.4274312],/home/ubuntu/data/project_data/cropped2/train/real/real_00792.png
+1,0,[0.57638353 0.42361647],/home/ubuntu/data/project_data/cropped2/train/real/real_00793.png
+1,0,[0.5855845  0.41441548],/home/ubuntu/data/project_data/cropped2/train/real/real_00794.png
+1,0,[0.5867629 0.4132371],/home/ubuntu/data/project_data/cropped2/train/real/real_00795.png
+1,0,[0.5833622  0.41663772],/home/ubuntu/data/project_data/cropped2/train/real/real_00797.png
+1,0,[0.5839112  0.41608885],/home/ubuntu/data/project_data/cropped2/train/real/real_00799.png
+1,0,[0.5672698  0.43273014],/home/ubuntu/data/project_data/cropped2/train/real/real_00800.png
+1,0,[0.5862346  0.41376534],/home/ubuntu/data/project_data/cropped2/train/real/real_00801.png
+1,0,[0.5817877  0.41821226],/home/ubuntu/data/project_data/cropped2/train/real/real_00802.png
+1,0,[0.5806489 0.4193511],/home/ubuntu/data/project_data/cropped2/train/real/real_00803.png
+1,0,[0.5878577  0.41214228],/home/ubuntu/data/project_data/cropped2/train/real/real_00805.png
+1,0,[0.5781115 0.4218885],/home/ubuntu/data/project_data/cropped2/train/real/real_00808.png
+1,0,[0.56831604 0.43168396],/home/ubuntu/data/project_data/cropped2/train/real/real_00809.png
+1,0,[0.56067353 0.43932647],/home/ubuntu/data/project_data/cropped2/train/real/real_00810.png
+1,0,[0.5834209  0.41657913],/home/ubuntu/data/project_data/cropped2/train/real/real_00811.png
+1,0,[0.5806628  0.41933724],/home/ubuntu/data/project_data/cropped2/train/real/real_00812.png
+1,0,[0.58459723 0.41540283],/home/ubuntu/data/project_data/cropped2/train/real/real_00813.png
+1,0,[0.5806152 0.4193848],/home/ubuntu/data/project_data/cropped2/train/real/real_00815.png
+1,0,[0.57002175 0.42997828],/home/ubuntu/data/project_data/cropped2/train/real/real_00816.png
+1,0,[0.5942901  0.40570986],/home/ubuntu/data/project_data/cropped2/train/real/real_00817.png
+1,0,[0.5749835  0.42501655],/home/ubuntu/data/project_data/cropped2/train/real/real_00818.png
+1,0,[0.582374   0.41762602],/home/ubuntu/data/project_data/cropped2/train/real/real_00819.png
+1,0,[0.5731078 0.4268923],/home/ubuntu/data/project_data/cropped2/train/real/real_00820.png
+1,0,[0.5773706  0.42262942],/home/ubuntu/data/project_data/cropped2/train/real/real_00821.png
+1,0,[0.5762371  0.42376295],/home/ubuntu/data/project_data/cropped2/train/real/real_00822.png
+1,0,[0.5719942  0.42800584],/home/ubuntu/data/project_data/cropped2/train/real/real_00823.png
+1,0,[0.5666401  0.43335995],/home/ubuntu/data/project_data/cropped2/train/real/real_00824.png
+1,0,[0.5874379  0.41256204],/home/ubuntu/data/project_data/cropped2/train/real/real_00825.png
+1,0,[0.5805888  0.41941118],/home/ubuntu/data/project_data/cropped2/train/real/real_00826.png
+1,0,[0.56984144 0.43015856],/home/ubuntu/data/project_data/cropped2/train/real/real_00827.png
+1,0,[0.5798318  0.42016828],/home/ubuntu/data/project_data/cropped2/train/real/real_00828.png
+1,0,[0.564883 0.435117],/home/ubuntu/data/project_data/cropped2/train/real/real_00829.png
+1,0,[0.5786408  0.42135918],/home/ubuntu/data/project_data/cropped2/train/real/real_00830.png
+1,0,[0.5760594 0.4239406],/home/ubuntu/data/project_data/cropped2/train/real/real_00831.png
+1,0,[0.57433116 0.42566884],/home/ubuntu/data/project_data/cropped2/train/real/real_00832.png
+1,0,[0.5888756  0.41112444],/home/ubuntu/data/project_data/cropped2/train/real/real_00833.png
+1,0,[0.58166784 0.4183321 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00835.png
+1,0,[0.58213955 0.41786045],/home/ubuntu/data/project_data/cropped2/train/real/real_00836.png
+1,0,[0.5880517  0.41194835],/home/ubuntu/data/project_data/cropped2/train/real/real_00837.png
+1,0,[0.5712164  0.42878357],/home/ubuntu/data/project_data/cropped2/train/real/real_00838.png
+1,0,[0.5836134 0.4163866],/home/ubuntu/data/project_data/cropped2/train/real/real_00839.png
+1,0,[0.575287   0.42471296],/home/ubuntu/data/project_data/cropped2/train/real/real_00840.png
+1,0,[0.5677693  0.43223068],/home/ubuntu/data/project_data/cropped2/train/real/real_00841.png
+1,0,[0.59168446 0.40831554],/home/ubuntu/data/project_data/cropped2/train/real/real_00842.png
+1,0,[0.5723009  0.42769912],/home/ubuntu/data/project_data/cropped2/train/real/real_00843.png
+1,0,[0.5838748  0.41612518],/home/ubuntu/data/project_data/cropped2/train/real/real_00844.png
+1,0,[0.5704899  0.42951015],/home/ubuntu/data/project_data/cropped2/train/real/real_00845.png
+1,0,[0.57433206 0.42566788],/home/ubuntu/data/project_data/cropped2/train/real/real_00846.png
+1,0,[0.58337027 0.41662976],/home/ubuntu/data/project_data/cropped2/train/real/real_00847.png
+1,0,[0.57339066 0.42660934],/home/ubuntu/data/project_data/cropped2/train/real/real_00848.png
+1,0,[0.59034836 0.40965164],/home/ubuntu/data/project_data/cropped2/train/real/real_00849.png
+1,0,[0.5668702  0.43312973],/home/ubuntu/data/project_data/cropped2/train/real/real_00852.png
+1,0,[0.5805361  0.41946384],/home/ubuntu/data/project_data/cropped2/train/real/real_00853.png
+1,0,[0.57786745 0.42213258],/home/ubuntu/data/project_data/cropped2/train/real/real_00854.png
+1,0,[0.5833788  0.41662127],/home/ubuntu/data/project_data/cropped2/train/real/real_00855.png
+1,0,[0.5809169  0.41908318],/home/ubuntu/data/project_data/cropped2/train/real/real_00856.png
+1,0,[0.56906617 0.43093377],/home/ubuntu/data/project_data/cropped2/train/real/real_00857.png
+1,0,[0.5764876  0.42351246],/home/ubuntu/data/project_data/cropped2/train/real/real_00858.png
+1,0,[0.5804815 0.4195185],/home/ubuntu/data/project_data/cropped2/train/real/real_00859.png
+1,0,[0.5762313  0.42376876],/home/ubuntu/data/project_data/cropped2/train/real/real_00860.png
+1,0,[0.57875854 0.42124152],/home/ubuntu/data/project_data/cropped2/train/real/real_00861.png
+1,0,[0.5859941 0.4140059],/home/ubuntu/data/project_data/cropped2/train/real/real_00862.png
+1,0,[0.56784695 0.432153  ],/home/ubuntu/data/project_data/cropped2/train/real/real_00863.png
+1,0,[0.57399493 0.4260051 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00864.png
+1,0,[0.564593   0.43540695],/home/ubuntu/data/project_data/cropped2/train/real/real_00865.png
+1,0,[0.57819164 0.42180833],/home/ubuntu/data/project_data/cropped2/train/real/real_00866.png
+1,0,[0.5721125 0.4278875],/home/ubuntu/data/project_data/cropped2/train/real/real_00868.png
+1,0,[0.5617687 0.4382313],/home/ubuntu/data/project_data/cropped2/train/real/real_00869.png
+1,0,[0.5845272  0.41547284],/home/ubuntu/data/project_data/cropped2/train/real/real_00871.png
+1,0,[0.5728371  0.42716292],/home/ubuntu/data/project_data/cropped2/train/real/real_00872.png
+1,0,[0.571811   0.42818895],/home/ubuntu/data/project_data/cropped2/train/real/real_00873.png
+1,0,[0.5708068  0.42919314],/home/ubuntu/data/project_data/cropped2/train/real/real_00874.png
+1,0,[0.586323   0.41367698],/home/ubuntu/data/project_data/cropped2/train/real/real_00875.png
+1,0,[0.57048076 0.42951918],/home/ubuntu/data/project_data/cropped2/train/real/real_00877.png
+1,0,[0.5871973 0.4128027],/home/ubuntu/data/project_data/cropped2/train/real/real_00878.png
+1,0,[0.58616126 0.4138387 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00879.png
+1,0,[0.5739294  0.42607054],/home/ubuntu/data/project_data/cropped2/train/real/real_00881.png
+1,0,[0.58533645 0.41466358],/home/ubuntu/data/project_data/cropped2/train/real/real_00882.png
+1,0,[0.5734038 0.4265962],/home/ubuntu/data/project_data/cropped2/train/real/real_00883.png
+1,0,[0.58032876 0.41967118],/home/ubuntu/data/project_data/cropped2/train/real/real_00884.png
+1,0,[0.58558476 0.41441527],/home/ubuntu/data/project_data/cropped2/train/real/real_00886.png
+1,0,[0.5869409 0.4130591],/home/ubuntu/data/project_data/cropped2/train/real/real_00888.png
+1,0,[0.57649386 0.42350617],/home/ubuntu/data/project_data/cropped2/train/real/real_00889.png
+1,0,[0.5953209  0.40467906],/home/ubuntu/data/project_data/cropped2/train/real/real_00890.png
+1,0,[0.588991 0.411009],/home/ubuntu/data/project_data/cropped2/train/real/real_00891.png
+1,0,[0.5747967  0.42520332],/home/ubuntu/data/project_data/cropped2/train/real/real_00892.png
+1,0,[0.5705215  0.42947853],/home/ubuntu/data/project_data/cropped2/train/real/real_00893.png
+1,0,[0.5779082 0.4220918],/home/ubuntu/data/project_data/cropped2/train/real/real_00896.png
+1,0,[0.56738114 0.43261883],/home/ubuntu/data/project_data/cropped2/train/real/real_00897.png
+1,0,[0.6013302 0.3986698],/home/ubuntu/data/project_data/cropped2/train/real/real_00898.png
+1,0,[0.5633877 0.4366124],/home/ubuntu/data/project_data/cropped2/train/real/real_00899.png
+1,0,[0.5680636 0.4319364],/home/ubuntu/data/project_data/cropped2/train/real/real_00900.png
+1,0,[0.56274635 0.43725362],/home/ubuntu/data/project_data/cropped2/train/real/real_00902.png
+1,0,[0.58725816 0.4127419 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00903.png
+1,0,[0.5767082  0.42329183],/home/ubuntu/data/project_data/cropped2/train/real/real_00904.png
+1,0,[0.5807013  0.41929865],/home/ubuntu/data/project_data/cropped2/train/real/real_00905.png
+1,0,[0.57308704 0.42691296],/home/ubuntu/data/project_data/cropped2/train/real/real_00906.png
+1,0,[0.5688926  0.43110743],/home/ubuntu/data/project_data/cropped2/train/real/real_00907.png
+1,0,[0.5703145  0.42968547],/home/ubuntu/data/project_data/cropped2/train/real/real_00908.png
+1,0,[0.57645 0.42355],/home/ubuntu/data/project_data/cropped2/train/real/real_00909.png
+1,0,[0.5826638  0.41733623],/home/ubuntu/data/project_data/cropped2/train/real/real_00910.png
+1,0,[0.5842807  0.41571927],/home/ubuntu/data/project_data/cropped2/train/real/real_00911.png
+1,0,[0.58172786 0.41827208],/home/ubuntu/data/project_data/cropped2/train/real/real_00912.png
+1,0,[0.56806546 0.43193454],/home/ubuntu/data/project_data/cropped2/train/real/real_00913.png
+1,0,[0.5778009  0.42219907],/home/ubuntu/data/project_data/cropped2/train/real/real_00914.png
+1,0,[0.57259035 0.4274097 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00915.png
+1,0,[0.5801989  0.41980115],/home/ubuntu/data/project_data/cropped2/train/real/real_00916.png
+1,0,[0.5713994  0.42860067],/home/ubuntu/data/project_data/cropped2/train/real/real_00918.png
+1,0,[0.5628959  0.43710414],/home/ubuntu/data/project_data/cropped2/train/real/real_00919.png
+1,0,[0.57884526 0.42115477],/home/ubuntu/data/project_data/cropped2/train/real/real_00920.png
+1,0,[0.58005977 0.41994023],/home/ubuntu/data/project_data/cropped2/train/real/real_00921.png
+1,0,[0.5755027  0.42449728],/home/ubuntu/data/project_data/cropped2/train/real/real_00922.png
+1,0,[0.5747451  0.42525488],/home/ubuntu/data/project_data/cropped2/train/real/real_00923.png
+1,0,[0.56260896 0.43739107],/home/ubuntu/data/project_data/cropped2/train/real/real_00924.png
+1,0,[0.57534933 0.42465073],/home/ubuntu/data/project_data/cropped2/train/real/real_00925.png
+1,0,[0.5655591 0.4344409],/home/ubuntu/data/project_data/cropped2/train/real/real_00926.png
+1,0,[0.5885808  0.41141924],/home/ubuntu/data/project_data/cropped2/train/real/real_00927.png
+1,0,[0.59245396 0.40754598],/home/ubuntu/data/project_data/cropped2/train/real/real_00928.png
+1,0,[0.5772871  0.42271286],/home/ubuntu/data/project_data/cropped2/train/real/real_00929.png
+1,0,[0.5859732  0.41402677],/home/ubuntu/data/project_data/cropped2/train/real/real_00930.png
+1,0,[0.584302   0.41569796],/home/ubuntu/data/project_data/cropped2/train/real/real_00931.png
+1,0,[0.5833009  0.41669914],/home/ubuntu/data/project_data/cropped2/train/real/real_00932.png
+1,0,[0.5906092 0.4093908],/home/ubuntu/data/project_data/cropped2/train/real/real_00933.png
+1,0,[0.5870897  0.41291028],/home/ubuntu/data/project_data/cropped2/train/real/real_00934.png
+1,0,[0.5813553 0.4186447],/home/ubuntu/data/project_data/cropped2/train/real/real_00936.png
+1,0,[0.56880695 0.43119302],/home/ubuntu/data/project_data/cropped2/train/real/real_00938.png
+1,0,[0.5778125  0.42218748],/home/ubuntu/data/project_data/cropped2/train/real/real_00939.png
+1,0,[0.5802722 0.4197278],/home/ubuntu/data/project_data/cropped2/train/real/real_00940.png
+1,0,[0.5688183  0.43118173],/home/ubuntu/data/project_data/cropped2/train/real/real_00941.png
+1,0,[0.571319   0.42868105],/home/ubuntu/data/project_data/cropped2/train/real/real_00943.png
+1,0,[0.57160974 0.42839023],/home/ubuntu/data/project_data/cropped2/train/real/real_00944.png
+1,0,[0.5845428  0.41545722],/home/ubuntu/data/project_data/cropped2/train/real/real_00945.png
+1,0,[0.575149 0.424851],/home/ubuntu/data/project_data/cropped2/train/real/real_00947.png
+1,0,[0.5782896  0.42171037],/home/ubuntu/data/project_data/cropped2/train/real/real_00948.png
+1,0,[0.57639986 0.42360017],/home/ubuntu/data/project_data/cropped2/train/real/real_00949.png
+1,0,[0.5775917  0.42240825],/home/ubuntu/data/project_data/cropped2/train/real/real_00950.png
+1,0,[0.5807814  0.41921863],/home/ubuntu/data/project_data/cropped2/train/real/real_00952.png
+1,0,[0.5759327  0.42406732],/home/ubuntu/data/project_data/cropped2/train/real/real_00953.png
+1,0,[0.58349496 0.4165051 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00954.png
+1,0,[0.580071   0.41992897],/home/ubuntu/data/project_data/cropped2/train/real/real_00955.png
+1,0,[0.57632    0.42367998],/home/ubuntu/data/project_data/cropped2/train/real/real_00956.png
+1,0,[0.5753525 0.4246475],/home/ubuntu/data/project_data/cropped2/train/real/real_00957.png
+1,0,[0.57174075 0.42825928],/home/ubuntu/data/project_data/cropped2/train/real/real_00958.png
+1,0,[0.5726219  0.42737815],/home/ubuntu/data/project_data/cropped2/train/real/real_00959.png
+1,0,[0.5662245  0.43377545],/home/ubuntu/data/project_data/cropped2/train/real/real_00960.png
+1,0,[0.58080643 0.41919354],/home/ubuntu/data/project_data/cropped2/train/real/real_00963.png
+1,0,[0.5672983  0.43270177],/home/ubuntu/data/project_data/cropped2/train/real/real_00964.png
+1,0,[0.56881374 0.43118623],/home/ubuntu/data/project_data/cropped2/train/real/real_00965.png
+1,0,[0.56314695 0.43685305],/home/ubuntu/data/project_data/cropped2/train/real/real_00966.png
+1,0,[0.5680913 0.4319087],/home/ubuntu/data/project_data/cropped2/train/real/real_00967.png
+1,0,[0.5835988  0.41640115],/home/ubuntu/data/project_data/cropped2/train/real/real_00968.png
+1,0,[0.554208 0.445792],/home/ubuntu/data/project_data/cropped2/train/real/real_00971.png
+1,0,[0.58175296 0.41824707],/home/ubuntu/data/project_data/cropped2/train/real/real_00972.png
+1,0,[0.5767972  0.42320284],/home/ubuntu/data/project_data/cropped2/train/real/real_00973.png
+1,0,[0.57545936 0.4245406 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00974.png
+1,0,[0.58821964 0.41178036],/home/ubuntu/data/project_data/cropped2/train/real/real_00975.png
+1,0,[0.5882361  0.41176388],/home/ubuntu/data/project_data/cropped2/train/real/real_00976.png
+1,0,[0.571163   0.42883694],/home/ubuntu/data/project_data/cropped2/train/real/real_00977.png
+1,0,[0.5809777 0.4190223],/home/ubuntu/data/project_data/cropped2/train/real/real_00978.png
+1,0,[0.57737184 0.4226281 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00979.png
+1,0,[0.57760864 0.42239136],/home/ubuntu/data/project_data/cropped2/train/real/real_00981.png
+1,0,[0.56566054 0.4343394 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00982.png
+1,0,[0.5667741 0.4332259],/home/ubuntu/data/project_data/cropped2/train/real/real_00983.png
+1,0,[0.5612552  0.43874475],/home/ubuntu/data/project_data/cropped2/train/real/real_00984.png
+1,0,[0.5785462  0.42145374],/home/ubuntu/data/project_data/cropped2/train/real/real_00985.png
+1,0,[0.5892074  0.41079268],/home/ubuntu/data/project_data/cropped2/train/real/real_00986.png
+1,0,[0.57627785 0.4237222 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00987.png
+1,0,[0.582804 0.417196],/home/ubuntu/data/project_data/cropped2/train/real/real_00988.png
+1,0,[0.56957066 0.4304294 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00989.png
+1,0,[0.58219236 0.4178076 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00991.png
+1,0,[0.5663584 0.4336416],/home/ubuntu/data/project_data/cropped2/train/real/real_00992.png
+1,0,[0.57355595 0.42644405],/home/ubuntu/data/project_data/cropped2/train/real/real_00993.png
+1,0,[0.57350224 0.4264978 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00994.png
+1,0,[0.58988374 0.4101163 ],/home/ubuntu/data/project_data/cropped2/train/real/real_00995.png
+1,0,[0.5742549  0.42574516],/home/ubuntu/data/project_data/cropped2/train/real/real_00996.png
+1,0,[0.57605374 0.42394626],/home/ubuntu/data/project_data/cropped2/train/real/real_00997.png
+1,0,[0.5750423 0.4249577],/home/ubuntu/data/project_data/cropped2/train/real/real_00998.png
+1,0,[0.5784368  0.42156324],/home/ubuntu/data/project_data/cropped2/train/real/real_00999.png
+1,0,[0.581511   0.41848904],/home/ubuntu/data/project_data/cropped2/train/real/real_01000.png
+1,0,[0.5906126  0.40938738],/home/ubuntu/data/project_data/cropped2/train/real/real_01001.png
+1,0,[0.57035786 0.42964217],/home/ubuntu/data/project_data/cropped2/train/real/real_01002.png
+1,0,[0.5810667  0.41893324],/home/ubuntu/data/project_data/cropped2/train/real/real_01003.png
+1,0,[0.5852383  0.41476172],/home/ubuntu/data/project_data/cropped2/train/real/real_01004.png
+1,0,[0.5778564 0.4221436],/home/ubuntu/data/project_data/cropped2/train/real/real_01006.png
+1,0,[0.568655   0.43134502],/home/ubuntu/data/project_data/cropped2/train/real/real_01007.png
+1,0,[0.58072764 0.41927233],/home/ubuntu/data/project_data/cropped2/train/real/real_01008.png
+1,0,[0.57438433 0.42561567],/home/ubuntu/data/project_data/cropped2/train/real/real_01009.png
+1,0,[0.58082354 0.4191764 ],/home/ubuntu/data/project_data/cropped2/train/real/real_01010.png
+1,0,[0.5813928 0.4186072],/home/ubuntu/data/project_data/cropped2/train/real/real_01011.png
+1,0,[0.57796264 0.42203736],/home/ubuntu/data/project_data/cropped2/train/real/real_01012.png
+1,0,[0.56891805 0.43108198],/home/ubuntu/data/project_data/cropped2/train/real/real_01013.png
+1,0,[0.55802006 0.44197994],/home/ubuntu/data/project_data/cropped2/train/real/real_01014.png
+1,0,[0.5732554 0.4267446],/home/ubuntu/data/project_data/cropped2/train/real/real_01015.png
+1,0,[0.57396084 0.42603913],/home/ubuntu/data/project_data/cropped2/train/real/real_01016.png
+1,0,[0.5806264  0.41937354],/home/ubuntu/data/project_data/cropped2/train/real/real_01017.png
+1,0,[0.5814226  0.41857737],/home/ubuntu/data/project_data/cropped2/train/real/real_01018.png
+1,0,[0.57506317 0.42493683],/home/ubuntu/data/project_data/cropped2/train/real/real_01019.png
+1,0,[0.56786 0.43214],/home/ubuntu/data/project_data/cropped2/train/real/real_01020.png
+1,0,[0.57646585 0.42353418],/home/ubuntu/data/project_data/cropped2/train/real/real_01021.png
+1,0,[0.57881385 0.42118615],/home/ubuntu/data/project_data/cropped2/train/real/real_01022.png
+1,0,[0.5866609  0.41333914],/home/ubuntu/data/project_data/cropped2/train/real/real_01023.png
+1,0,[0.58033395 0.41966608],/home/ubuntu/data/project_data/cropped2/train/real/real_01024.png
+1,0,[0.5639039  0.43609607],/home/ubuntu/data/project_data/cropped2/train/real/real_01025.png
+1,0,[0.58465165 0.41534838],/home/ubuntu/data/project_data/cropped2/train/real/real_01026.png
+1,0,[0.57425064 0.42574936],/home/ubuntu/data/project_data/cropped2/train/real/real_01027.png
+1,0,[0.5808993  0.41910064],/home/ubuntu/data/project_data/cropped2/train/real/real_01028.png
+1,0,[0.5843116 0.4156883],/home/ubuntu/data/project_data/cropped2/train/real/real_01029.png
+1,0,[0.56082946 0.43917057],/home/ubuntu/data/project_data/cropped2/train/real/real_01030.png
+1,0,[0.5752919  0.42470813],/home/ubuntu/data/project_data/cropped2/train/real/real_01031.png
+1,0,[0.58236825 0.41763172],/home/ubuntu/data/project_data/cropped2/train/real/real_01032.png
+1,0,[0.5726671  0.42733294],/home/ubuntu/data/project_data/cropped2/train/real/real_01033.png
+1,0,[0.59093976 0.40906024],/home/ubuntu/data/project_data/cropped2/train/real/real_01035.png
+1,0,[0.56381094 0.4361891 ],/home/ubuntu/data/project_data/cropped2/train/real/real_01036.png
+1,0,[0.5849908  0.41500923],/home/ubuntu/data/project_data/cropped2/train/real/real_01037.png
+1,0,[0.5897745  0.41022545],/home/ubuntu/data/project_data/cropped2/train/real/real_01038.png
+1,0,[0.5859898  0.41401017],/home/ubuntu/data/project_data/cropped2/train/real/real_01039.png
+1,0,[0.58327097 0.41672906],/home/ubuntu/data/project_data/cropped2/train/real/real_01040.png
+1,0,[0.57715255 0.4228474 ],/home/ubuntu/data/project_data/cropped2/train/real/real_01041.png
+1,0,[0.5673539  0.43264607],/home/ubuntu/data/project_data/cropped2/train/real/real_01042.png
+1,0,[0.5794022  0.42059776],/home/ubuntu/data/project_data/cropped2/train/real/real_01043.png
+1,0,[0.57409465 0.42590532],/home/ubuntu/data/project_data/cropped2/train/real/real_01044.png
+1,0,[0.5795858  0.42041427],/home/ubuntu/data/project_data/cropped2/train/real/real_01045.png
+1,0,[0.5722343 0.4277657],/home/ubuntu/data/project_data/cropped2/train/real/real_01046.png
+1,0,[0.5824342 0.4175659],/home/ubuntu/data/project_data/cropped2/train/real/real_01049.png
+1,0,[0.57672656 0.42327347],/home/ubuntu/data/project_data/cropped2/train/real/real_01050.png
+1,0,[0.569013   0.43098694],/home/ubuntu/data/project_data/cropped2/train/real/real_01051.png
+1,0,[0.5791346 0.4208654],/home/ubuntu/data/project_data/cropped2/train/real/real_01052.png
+1,0,[0.5847533  0.41524673],/home/ubuntu/data/project_data/cropped2/train/real/real_01053.png
+1,0,[0.5765233  0.42347673],/home/ubuntu/data/project_data/cropped2/train/real/real_01054.png
+1,0,[0.5862921 0.4137079],/home/ubuntu/data/project_data/cropped2/train/real/real_01055.png
+1,0,[0.5787791  0.42122087],/home/ubuntu/data/project_data/cropped2/train/real/real_01056.png
+1,0,[0.58340216 0.41659787],/home/ubuntu/data/project_data/cropped2/train/real/real_01057.png
+1,0,[0.5721926 0.4278074],/home/ubuntu/data/project_data/cropped2/train/real/real_01058.png
+1,0,[0.5849223  0.41507775],/home/ubuntu/data/project_data/cropped2/train/real/real_01059.png
+1,0,[0.5646541  0.43534586],/home/ubuntu/data/project_data/cropped2/train/real/real_01060.png
+1,0,[0.5818525  0.41814753],/home/ubuntu/data/project_data/cropped2/train/real/real_01061.png
+1,0,[0.5748654  0.42513457],/home/ubuntu/data/project_data/cropped2/train/real/real_01062.png
+1,0,[0.5660385  0.43396154],/home/ubuntu/data/project_data/cropped2/train/real/real_01063.png
+1,0,[0.56637526 0.4336247 ],/home/ubuntu/data/project_data/cropped2/train/real/real_01064.png
+1,0,[0.56734705 0.43265295],/home/ubuntu/data/project_data/cropped2/train/real/real_01065.png
+1,0,[0.5781417  0.42185828],/home/ubuntu/data/project_data/cropped2/train/real/real_01066.png
+1,0,[0.5913501 0.4086499],/home/ubuntu/data/project_data/cropped2/train/real/real_01067.png
+1,0,[0.58136606 0.41863397],/home/ubuntu/data/project_data/cropped2/train/real/real_01068.png
+1,0,[0.56986845 0.43013158],/home/ubuntu/data/project_data/cropped2/train/real/real_01069.png
+1,0,[0.5728459  0.42715412],/home/ubuntu/data/project_data/cropped2/train/real/real_01070.png
+1,0,[0.58084935 0.41915062],/home/ubuntu/data/project_data/cropped2/train/real/real_01071.png
+1,0,[0.5939804  0.40601957],/home/ubuntu/data/project_data/cropped2/train/real/real_01072.png
+1,0,[0.56601745 0.43398252],/home/ubuntu/data/project_data/cropped2/train/real/real_01073.png
+1,0,[0.5654216  0.43457845],/home/ubuntu/data/project_data/cropped2/train/real/real_01074.png
+1,0,[0.5702886  0.42971137],/home/ubuntu/data/project_data/cropped2/train/real/real_01075.png
+1,0,[0.5856496  0.41435036],/home/ubuntu/data/project_data/cropped2/train/real/real_01076.png
+1,0,[0.571443   0.42855698],/home/ubuntu/data/project_data/cropped2/train/real/real_01078.png
+1,0,[0.57846296 0.42153713],/home/ubuntu/data/project_data/cropped2/train/real/real_01079.png
+1,0,[0.5779705  0.42202958],/home/ubuntu/data/project_data/cropped2/train/real/real_01080.png
