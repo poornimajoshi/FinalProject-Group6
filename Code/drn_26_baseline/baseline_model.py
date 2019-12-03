@@ -1,5 +1,51 @@
 import pdb
 
+import torchvision.models as models
+import torch.nn as nn
+import torch
+
+alexnet = models.alexnet(pretrained=True)
+alexnet.classifier = nn.Sequential(nn.Dropout(p=0.5, inplace=False),nn.Linear(in_features=9216, out_features=4096, bias=True), nn.ReLU(inplace=True),nn.Dropout(p=0.5, inplace=False),nn.Linear(in_features=4096, out_features=4096, bias=True),nn.ReLU(inplace=True),nn.Linear(in_features=4096, out_features=1000, bias=True),nn.ReLU(inplace=True),nn.Dropout(p=0.5, inplace=False),nn.Linear(in_features=1000, out_features=2, bias=True))
+googlenet = models.googlenet(pretrained = True)
+googlenet.fc = nn.Sequential(nn.Linear(in_features=1024, out_features=1000, bias=True),nn.CELU(),nn.Dropout(.3),nn.Linear(1000,2))
+from torchvision import models
+#pdf
+#res101 = models.resnet101(pretrained = True)
+#res101.fc = nn.Sequential(nn.Linear(in_features=2048, out_features=1000, bias=True),nn.ReLU(),nn.Dropout(.5),nn.Linear(1000,7))
+#decaprio = models.inception_v3(pretrained=True)
+#decaprio.fc = nn.Sequential(nn.Linear(in_features=2048, out_features=1000, bias=True),nn.ReLU(),nn.Dropout(.35),nn.Linear(1000,200),nn.ReLU(),nn.Dropout(.2),nn.Linear(200,7))
+
+#res5032 = models.resnext50_32x4d(pretrained=True)
+#res5032.fc = nn.Sequential(nn.Linear(in_features=2048, out_features=300, bias=True),nn.ReLU(),nn.Dropout(.3),nn.Linear(300,7))
+vg16 = models.vgg16(pretrained=True)
+vg16.classifier[6] = nn.Sequential(
+                       nn.Linear(4096, 256),
+                       nn.ReLU(),
+                       nn.Dropout(0.4),
+                       nn.Linear(256, 7))
+#densenet = models.densenet161(pretrained=True)
+#densenet.classifier = nn.Sequential(nn.Linear(in_features=2208, out_features=1000, bias=True),nn.ReLU(),nn.Dropout(.3),nn.Linear(1000,7))
+#optimizer = optim.Adam(model.parameters(),lr = .000005)
+sFN = models.shufflenet_v2_x1_5(pretrained=False)
+sFN.fc = nn.Sequential(nn.Linear(1024,1000,bias=True),nn.ReLU(),nn.Dropout(.4),nn.Linear(1000,2))
+mna = models.mnasnet1_0(pretrained=True)
+mna.classifier =  nn.Sequential(nn.Dropout(p=0.2, inplace=True),nn.Linear(in_features=1280, out_features=1000, bias=True),nn.ReLU(),nn.Dropout(.35),nn.Linear(1000,2))
+class MyEnsemble(nn.Module):
+    def __init__(self,mna,sFN):
+        super(MyEnsemble,self).__init__()
+        self.mna = mna
+        self.sFN = sFN
+        #self.vg16 = vg16
+        self.classifier = nn.Linear(4,2)
+        self.ls = nn.LogSoftmax(dim=1)
+    def forward(self,x1,x2):
+        x1 = self.mna(x1)
+        x2 = self.sFN(x2)
+        #x3 = self.vg16(x3)
+        x = torch.cat((x1,x2),dim =1)
+        x = self.classifier(torch.relu(x))
+        x = self.ls(x)
+        return x
 import torch
 import torch.nn as nn
 import math
@@ -465,7 +511,7 @@ class DRNSean(nn.Module):
                 param.requires_grad = False
 
         self.avgpool = nn.AdaptiveAvgPool2d((1, 1))
-        self.fc = nn.Sequential(nn.Linear(512, 100),nn.ReLU(), nn.Dropout(.5), nn.Linear(100,num_classes), nn.LogSoftmax(dim=1))
+        self.fc = nn.Sequential(nn.Linear(512, 100),nn.ReLU(), nn.Dropout(.5), nn.Linear(100,num_classes),nn.LogSoftmax(dim=1))
 
     def forward(self, x):
         x = self.base(x)
@@ -485,12 +531,14 @@ from torch import optim
 import torch.nn.functional as F
 from torchvision import datasets, transforms, models
 
-data_dir = '/home/ubuntu/Deep-Learning/Final_Project/train'
+#data_dir = '/home/ubuntu/Deep-Learning/Final_Project/train'
+data_dir = '/home/ubuntu/Deep-Learning/data/project_data/cropped2/train'
 
 
 #Linear(in_features=512, out_features=2, bias=True)
 #model = DRNSub(1,pretrained_model='/home/ubuntu/Deep-Learning/Final_Project/FALdetector/weights/global.pth')
 model = DRNSean(2,pretrained_mod='/home/ubuntu/Deep-Learning/Final_Project/FALdetector/weights/global.pth')
+#model = MyEnsemble(mna,sFN)
 model.cuda()
 print(model)
 ########
@@ -498,13 +546,13 @@ def load_split_train_test(datadir, valid_size = .2):
     train_transforms = transforms.Compose([#transforms.RandomRotation(30),  # data augmentations are great
                                        #transforms.RandomResizedCrop(224),  # but not in this case of map tiles
                                        #transforms.RandomHorizontalFlip(),
-                                       transforms.Resize(500),
+                                       transforms.Resize((400,400)),
                                        transforms.ToTensor(),
                                        #transforms.Normalize([0.485, 0.456, 0.406], # PyTorch recommends these but in this
                                        #                     [0.229, 0.224, 0.225]) # case I didn't get good results
                                        ])
 
-    test_transforms = transforms.Compose([transforms.Resize(500),
+    test_transforms = transforms.Compose([transforms.Resize((400,400)),
                                       transforms.ToTensor(),
                                       #transforms.Normalize([0.485, 0.456, 0.406],
                                       #                     [0.229, 0.224, 0.225])
@@ -528,19 +576,29 @@ print('y')
 trainloader, testloader = load_split_train_test(data_dir, .2)
 print(trainloader.dataset.classes)
 #TODO, we gotta find the correct samples to train and test on
-
+LR = 0.00007
 criterion = nn.NLLLoss()
-optimizer = optim.Adam(model.parameters(), lr=0.0003)
+#n = torch.sigmoid
+#optimizer = optim.Adam(model.parameters(), lr=LR)
+optimizer = optim.Adadelta(model.parameters())
+# I got the best with 50000 resolution on the baseline with adadelta after the 5th epoch...
 epochs = 15
 print_every = 10
 train_losses, test_losses = [], []
 for epoch in range(epochs):
     print('ho HOOOOO, were TRAINing a NEURAL netWORK')
+    LR = LR*.75
     running_loss = 0
     steps = 0
+    #if epoch > 5:
+    #    optimizer = optim.SGD(model.parameters(), lr=LR,weight_decay = .1)
+
+    #optimizer = optim.Adam(model.parameters(),lr = LR)
     for inputs, labels in trainloader:
         steps += 1
         inputs = Variable(inputs).cuda()
+        #labels = labels.LongTensor()
+        #labels = torch.nn.functional.one_hot(labels,num_classes =2)
         labels = Variable(labels).cuda()
         #inputs, labels = inputs.to(device), labels.to(device)
         optimizer.zero_grad()
@@ -557,13 +615,15 @@ for epoch in range(epochs):
             with torch.no_grad():
                 for inputs, labels in testloader:
                     inputs, labels = Variable(inputs).cuda(),  Variable(labels).cuda()#inputs, labels = inputs.to(device),
-                 #   labels.to(device)
+                    #labels = torch.nn.functional.one_hot(labels, num_classes=2)
+
+                    #   labels.to(device)
                     logps = model(inputs)
                     batch_loss = criterion(logps, labels)
                     test_loss += batch_loss.item()
 
                     ps = torch.exp(logps)
-                    top_p, top_class = ps.topk(1, dim=1)
+                    top_p, top_class = logps.topk(1, dim=1)
                     equals = top_class == labels.view(*top_class.shape)
                     accuracy += torch.mean(equals.type(torch.FloatTensor)).item()
                 #model.train()
@@ -574,10 +634,8 @@ for epoch in range(epochs):
           f"Test loss: {test_loss / len(testloader):.3f}.. "
           f"Test accuracy: {accuracy / len(testloader):.3f}")
     running_loss = 0
-    model.train()
-torch.save(model, 'insert_name_of_model.pth')
+    torch.save(model, str(epoch) +'cropped_baseline_allAD.pth')
 
-plt.plot(train_losses, label='Training loss')
-plt.plot(test_losses, label='Validation loss')
-plt.legend(frameon=False)
-plt.show()
+    model.train()
+torch.save(model, 'cropped_baseline_base_allAD.pth')
+
