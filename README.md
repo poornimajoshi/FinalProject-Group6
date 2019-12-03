@@ -11,5 +11,8 @@ Data was obtained from [Kaggle](https://www.kaggle.com/ciplab/real-and-fake-face
 Navigate into the `Code` folder to know more on running the models.
 
 Some Sample images are seen here:
-![Image of Yaktocat]
-(https://octodex.github.com/images/yaktocat.png)
+
+![Image of SampleImages](https://github.com/poornimajoshi/FinalProject-GroupX/blob/master/Code/image_sample.png)
+
+Levels in the images
+![Levels in SampleImages](https://github.com/poornimajoshi/FinalProject-GroupX/blob/master/Code/image_levels.png)
